@@ -1,0 +1,1001 @@
+User_ID,Movie_Title,Genre,Watch_Time_Min,Rating,Watch_Date,Device,Language,Is_HD,Subscription_Type
+U0061,La La Land,Thriller,88,1.6,2023-12-12,Smart TV,Korean,False,Standard
+U0064,Joker,Drama,112,1.4,2023-12-01,Mobile,English,False,Premium
+U0054,Parasite,Romance,148,2.9,2023-02-16,Laptop,Spanish,True,Premium
+U0058,La La Land,Action,120,3.9,2023-04-25,Smart TV,English,True,Basic
+U0070,Avengers: Endgame,Sci-Fi,143,4.1,2024-05-27,Tablet,Korean,True,Premium
+U0091,The Matrix,Thriller,52,1.1,2023-12-04,Smart TV,Hindi,False,Premium
+U0043,Inception,Sci-Fi,62,4.5,2023-11-07,Laptop,German,True,Basic
+U0074,Parasite,Sci-Fi,116,4.1,2023-03-22,Smart TV,Spanish,True,Basic
+U0074,Inception,Drama,152,1.1,2023-12-08,Desktop,Spanish,True,Basic
+U0068,Interstellar,Romance,12,3.9,2023-01-28,Smart TV,English,True,Standard
+U0042,The Godfather,Action,98,4.1,2023-02-25,Mobile,English,False,Premium
+U0002,Edge of Tomorrow,Action,141,1.3,2024-06-23,Laptop,Spanish,True,Premium
+U0040,Inception,Drama,177,2.2,2024-04-22,Smart TV,Hindi,True,Basic
+U0014,Inception,Romance,122,4.9,2023-06-22,Laptop,Hindi,False,Basic
+U0005,The Godfather,Drama,174,3.9,2023-01-11,Tablet,Korean,True,Basic
+U0056,Avengers: Endgame,Romance,89,4.1,2024-04-10,Mobile,Korean,True,Premium
+U0096,Inception,Sci-Fi,109,2.2,2024-05-30,Smart TV,French,False,Standard
+U0029,Parasite,Sci-Fi,160,3.5,2023-12-17,Laptop,Korean,False,Standard
+U0044,Interstellar,Thriller,10,2.8,2024-01-26,Mobile,English,False,Basic
+U0037,Interstellar,Drama,118,3.3,2023-01-21,Mobile,Hindi,False,Premium
+U0036,Parasite,Sci-Fi,10,2.6,2023-02-20,Laptop,French,True,Premium
+U0084,The Matrix,Drama,34,2.7,2023-06-28,Laptop,French,False,Basic
+U0055,Edge of Tomorrow,Drama,149,1.5,2023-09-21,Smart TV,Korean,False,Premium
+U0047,Edge of Tomorrow,Thriller,97,2.9,2023-10-06,Smart TV,English,False,Standard
+U0066,The Dark Knight,Comedy,46,4.5,2023-03-26,Laptop,German,True,Premium
+U0009,Avengers: Endgame,Action,13,1.8,2023-03-18,Smart TV,English,True,Standard
+U0057,Interstellar,Action,24,4.8,2023-10-07,Desktop,French,True,Basic
+U0003,The Godfather,Action,53,3.7,2024-01-25,Mobile,Korean,True,Premium
+U0073,Avengers: Endgame,Drama,125,4.7,2023-09-29,Smart TV,English,False,Basic
+U0087,The Matrix,Romance,90,1.4,2024-01-03,Desktop,German,False,Standard
+U0064,Joker,Action,112,1.4,2024-03-06,Desktop,Hindi,True,Premium
+U0070,Inception,Drama,41,5.0,2023-02-03,Smart TV,Korean,True,Premium
+U0077,La La Land,Sci-Fi,53,2.8,2024-02-28,Tablet,German,False,Premium
+U0073,Parasite,Action,81,3.0,2024-03-08,Mobile,Spanish,True,Standard
+U0009,The Dark Knight,Drama,46,1.3,2024-02-06,Tablet,Spanish,False,Standard
+U0066,La La Land,Sci-Fi,18,4.6,2024-02-06,Desktop,English,False,Premium
+U0026,Parasite,Action,151,4.4,2023-09-14,Desktop,Korean,True,Premium
+U0092,Interstellar,Sci-Fi,173,2.7,2024-01-18,Desktop,Hindi,False,Basic
+U0076,The Dark Knight,Action,85,1.7,2023-10-19,Smart TV,Korean,False,Premium
+U0056,La La Land,Action,46,2.1,2024-01-19,Smart TV,English,True,Basic
+U0083,Edge of Tomorrow,Action,44,3.9,2024-03-03,Mobile,English,True,Premium
+U0012,Joker,Thriller,87,2.6,2023-12-28,Tablet,German,True,Premium
+U0078,Parasite,Action,83,1.5,2023-03-18,Mobile,German,False,Basic
+U0093,Parasite,Drama,82,2.9,2023-02-21,Smart TV,French,False,Standard
+U0081,The Godfather,Comedy,90,4.5,2024-02-27,Laptop,German,True,Basic
+U0021,Parasite,Comedy,130,1.9,2024-05-30,Laptop,Hindi,True,Standard
+U0072,Avengers: Endgame,Thriller,132,2.2,2023-01-26,Laptop,Hindi,True,Standard
+U0047,The Dark Knight,Romance,165,4.6,2024-04-15,Tablet,German,False,Basic
+U0015,Joker,Comedy,113,4.5,2023-11-10,Laptop,Korean,False,Standard
+U0057,Interstellar,Drama,53,2.6,2023-09-28,Tablet,English,True,Standard
+U0004,Inception,Sci-Fi,129,4.2,2023-02-07,Smart TV,German,True,Basic
+U0010,Inception,Action,41,4.1,2024-02-23,Desktop,English,True,Premium
+U0066,The Godfather,Thriller,81,3.1,2023-11-27,Smart TV,English,False,Premium
+U0021,Joker,Romance,113,4.2,2023-10-30,Laptop,French,True,Standard
+U0002,Joker,Thriller,62,3.7,2024-06-03,Smart TV,French,True,Basic
+U0024,Inception,Comedy,70,4.5,2023-04-05,Desktop,Hindi,False,Basic
+U0081,Parasite,Comedy,143,3.0,2023-12-07,Mobile,Spanish,False,Premium
+U0089,Inception,Thriller,59,2.8,2023-09-23,Laptop,English,False,Basic
+U0064,The Matrix,Drama,103,4.0,2023-01-21,Laptop,French,True,Standard
+U0015,The Godfather,Action,134,3.5,2023-12-06,Mobile,English,False,Basic
+U0077,Parasite,Thriller,68,4.1,2023-06-25,Desktop,French,False,Basic
+U0099,The Dark Knight,Comedy,45,2.0,2024-05-08,Smart TV,Spanish,True,Basic
+U0037,La La Land,Action,40,3.4,2024-01-06,Mobile,Hindi,False,Basic
+U0055,Parasite,Romance,92,1.1,2023-03-24,Desktop,Korean,True,Standard
+U0083,Joker,Sci-Fi,123,3.8,2024-05-18,Laptop,French,True,Basic
+U0052,Edge of Tomorrow,Romance,103,1.6,2023-04-02,Laptop,Spanish,False,Basic
+U0094,Avengers: Endgame,Comedy,90,3.2,2023-02-21,Tablet,French,False,Standard
+U0036,La La Land,Romance,30,2.7,2024-01-13,Desktop,English,True,Standard
+U0003,Edge of Tomorrow,Thriller,23,3.0,2023-08-14,Desktop,Hindi,False,Basic
+U0060,The Godfather,Comedy,164,3.1,2024-04-20,Mobile,English,True,Basic
+U0072,Inception,Comedy,163,3.3,2023-09-20,Desktop,Korean,False,Basic
+U0086,Edge of Tomorrow,Thriller,139,2.3,2023-06-07,Mobile,French,False,Premium
+U0025,The Matrix,Action,163,3.5,2023-03-06,Laptop,Hindi,True,Premium
+U0094,Edge of Tomorrow,Thriller,137,4.3,2023-10-16,Laptop,Spanish,True,Standard
+U0085,The Dark Knight,Comedy,173,2.9,2024-06-18,Tablet,Korean,False,Premium
+U0054,The Dark Knight,Drama,87,1.1,2023-08-19,Desktop,Korean,True,Premium
+U0029,The Dark Knight,Action,155,4.5,2023-10-08,Tablet,English,False,Basic
+U0097,Edge of Tomorrow,Drama,63,2.6,2023-09-21,Mobile,Hindi,True,Premium
+U0053,Joker,Romance,20,4.2,2024-05-09,Smart TV,Spanish,True,Premium
+U0053,The Godfather,Romance,113,3.7,2023-03-16,Tablet,Spanish,True,Basic
+U0055,Avengers: Endgame,Sci-Fi,159,3.2,2023-11-23,Smart TV,French,False,Premium
+U0041,The Godfather,Drama,15,2.0,2023-05-29,Tablet,Korean,True,Basic
+U0094,The Matrix,Sci-Fi,47,3.8,2023-01-21,Smart TV,Spanish,False,Premium
+U0025,Edge of Tomorrow,Comedy,106,3.3,2023-10-09,Smart TV,French,False,Basic
+U0008,Interstellar,Drama,103,2.7,2023-11-07,Desktop,Hindi,False,Basic
+U0054,Avengers: Endgame,Drama,110,2.4,2024-05-23,Laptop,Spanish,True,Premium
+U0067,Parasite,Romance,129,4.7,2024-03-17,Smart TV,French,False,Basic
+U0023,Interstellar,Romance,88,2.3,2023-12-26,Smart TV,Spanish,False,Standard
+U0009,La La Land,Sci-Fi,20,3.9,2024-06-10,Desktop,English,True,Premium
+U0071,Parasite,Romance,44,2.0,2023-12-07,Desktop,Korean,False,Premium
+U0003,Parasite,Thriller,44,3.3,2023-05-07,Mobile,Spanish,True,Standard
+U0089,Edge of Tomorrow,Thriller,16,1.7,2023-05-30,Mobile,Korean,True,Standard
+U0080,The Godfather,Romance,83,4.2,2023-04-17,Laptop,French,False,Basic
+U0092,Joker,Action,136,3.0,2023-11-24,Tablet,English,False,Standard
+U0022,Joker,Sci-Fi,12,1.1,2023-03-16,Tablet,Spanish,True,Premium
+U0027,The Dark Knight,Action,31,1.3,2023-06-27,Mobile,English,False,Basic
+U0074,Avengers: Endgame,Thriller,27,2.5,2023-01-08,Desktop,English,True,Premium
+U0001,Interstellar,Sci-Fi,140,4.9,2023-07-01,Laptop,French,True,Standard
+U0024,Joker,Action,79,2.4,2023-01-03,Desktop,Spanish,False,Basic
+U0063,Interstellar,Drama,135,3.2,2024-01-25,Desktop,Spanish,True,Basic
+U0087,La La Land,Romance,120,2.5,2023-02-11,Mobile,German,False,Premium
+U0063,Joker,Comedy,175,3.6,2024-02-10,Desktop,Hindi,False,Basic
+U0046,The Dark Knight,Sci-Fi,177,3.8,2024-04-21,Laptop,Korean,False,Standard
+U0044,Interstellar,Romance,130,2.1,2023-05-01,Mobile,Korean,False,Basic
+U0035,Parasite,Romance,166,1.9,2024-05-26,Smart TV,Korean,False,Basic
+U0065,Interstellar,Thriller,61,1.2,2023-06-05,Tablet,Spanish,True,Standard
+U0053,The Dark Knight,Drama,133,2.3,2023-03-14,Desktop,English,True,Premium
+U0048,Avengers: Endgame,Action,163,3.7,2023-09-16,Tablet,Korean,True,Standard
+U0033,Joker,Comedy,92,4.6,2023-06-09,Laptop,Spanish,True,Basic
+U0095,The Godfather,Thriller,171,2.4,2023-07-29,Laptop,English,False,Standard
+U0064,La La Land,Action,26,4.8,2024-04-03,Desktop,French,True,Basic
+U0079,Edge of Tomorrow,Thriller,96,3.5,2023-12-12,Smart TV,Hindi,False,Premium
+U0092,Interstellar,Sci-Fi,62,4.6,2023-08-28,Desktop,Spanish,True,Basic
+U0044,Inception,Romance,126,2.0,2023-06-07,Tablet,German,True,Premium
+U0099,The Dark Knight,Action,123,4.4,2023-11-11,Laptop,Spanish,False,Standard
+U0091,The Dark Knight,Drama,56,3.2,2024-04-30,Laptop,English,True,Basic
+U0012,Avengers: Endgame,Sci-Fi,83,3.9,2023-10-26,Smart TV,French,False,Premium
+U0028,The Godfather,Thriller,18,3.4,2024-06-12,Mobile,Spanish,False,Premium
+U0079,Avengers: Endgame,Thriller,34,4.5,2023-01-12,Tablet,German,False,Premium
+U0079,Edge of Tomorrow,Comedy,85,2.0,2023-08-01,Smart TV,Korean,True,Basic
+U0021,The Matrix,Sci-Fi,20,2.7,2024-03-26,Laptop,Spanish,True,Premium
+U0099,The Godfather,Comedy,59,4.5,2023-08-25,Laptop,Korean,True,Premium
+U0016,The Dark Knight,Comedy,126,2.9,2023-07-04,Laptop,German,True,Basic
+U0040,Joker,Romance,50,1.8,2023-01-10,Smart TV,German,True,Basic
+U0049,Avengers: Endgame,Sci-Fi,98,3.3,2023-02-18,Tablet,English,False,Standard
+U0044,Avengers: Endgame,Sci-Fi,129,3.5,2024-05-18,Desktop,Hindi,True,Standard
+U0030,La La Land,Romance,35,2.1,2023-08-08,Mobile,Korean,True,Standard
+U0010,Interstellar,Thriller,27,4.1,2023-04-23,Laptop,English,False,Standard
+U0080,The Dark Knight,Drama,75,3.1,2023-02-16,Desktop,German,True,Standard
+U0058,Interstellar,Thriller,70,2.1,2023-10-01,Tablet,French,False,Standard
+U0001,Joker,Sci-Fi,118,4.3,2023-02-27,Laptop,Hindi,True,Premium
+U0088,Joker,Action,31,1.8,2023-03-04,Smart TV,German,True,Basic
+U0012,Edge of Tomorrow,Action,14,1.9,2023-07-14,Smart TV,English,False,Premium
+U0069,La La Land,Thriller,50,1.6,2023-10-27,Mobile,Korean,False,Premium
+U0045,Edge of Tomorrow,Thriller,155,2.7,2024-01-18,Laptop,French,True,Premium
+U0024,Joker,Romance,166,1.9,2023-04-28,Smart TV,German,True,Premium
+U0077,Edge of Tomorrow,Drama,123,1.8,2024-04-24,Tablet,French,True,Premium
+U0078,Parasite,Action,52,2.2,2023-10-16,Mobile,English,True,Basic
+U0090,Interstellar,Romance,48,3.9,2024-03-14,Desktop,Spanish,False,Premium
+U0053,Joker,Action,160,1.8,2023-09-06,Laptop,Hindi,True,Standard
+U0091,Parasite,Comedy,165,3.8,2023-02-06,Smart TV,German,False,Standard
+U0036,Joker,Drama,12,1.8,2024-06-15,Tablet,French,False,Standard
+U0088,The Dark Knight,Romance,12,1.1,2023-09-20,Smart TV,English,False,Premium
+U0064,The Godfather,Drama,85,4.3,2024-04-03,Mobile,German,True,Standard
+U0083,Edge of Tomorrow,Sci-Fi,89,2.6,2023-05-18,Laptop,Spanish,True,Basic
+U0057,The Matrix,Action,156,1.5,2024-06-17,Laptop,German,False,Standard
+U0060,The Matrix,Romance,70,1.2,2023-05-11,Laptop,Spanish,False,Basic
+U0072,The Matrix,Romance,54,5.0,2024-06-23,Smart TV,German,False,Basic
+U0001,The Matrix,Romance,132,1.7,2023-05-15,Desktop,French,True,Premium
+U0005,The Godfather,Drama,171,1.1,2024-03-21,Mobile,Hindi,True,Premium
+U0014,Joker,Action,117,4.5,2023-06-19,Desktop,Hindi,False,Basic
+U0086,Avengers: Endgame,Thriller,48,4.9,2023-02-02,Tablet,French,True,Premium
+U0094,La La Land,Sci-Fi,152,1.5,2024-06-14,Desktop,English,False,Basic
+U0077,Inception,Action,180,2.8,2023-09-14,Smart TV,Korean,False,Premium
+U0028,Joker,Drama,46,4.0,2023-02-02,Smart TV,French,False,Basic
+U0037,Parasite,Sci-Fi,128,1.2,2024-05-12,Tablet,German,True,Basic
+U0098,Joker,Action,108,1.4,2024-05-10,Mobile,German,False,Basic
+U0055,La La Land,Romance,138,4.6,2024-01-02,Mobile,French,True,Basic
+U0091,Avengers: Endgame,Comedy,33,3.8,2023-09-08,Desktop,Spanish,True,Basic
+U0044,The Matrix,Sci-Fi,136,2.7,2024-03-06,Desktop,French,False,Basic
+U0090,Joker,Romance,83,3.9,2024-02-26,Desktop,Korean,False,Premium
+U0064,La La Land,Comedy,51,4.7,2023-01-20,Mobile,English,True,Standard
+U0091,Inception,Comedy,170,2.2,2024-04-13,Smart TV,Hindi,True,Standard
+U0053,Inception,Romance,22,1.7,2023-03-25,Smart TV,French,False,Premium
+U0068,Edge of Tomorrow,Drama,49,2.4,2023-09-19,Laptop,Hindi,True,Standard
+U0005,The Dark Knight,Comedy,130,3.8,2023-01-07,Mobile,Hindi,True,Standard
+U0099,Interstellar,Sci-Fi,148,2.6,2024-06-12,Mobile,Korean,False,Basic
+U0092,The Dark Knight,Drama,104,3.1,2024-04-03,Smart TV,French,False,Standard
+U0061,Avengers: Endgame,Thriller,163,3.8,2024-03-14,Mobile,Korean,False,Standard
+U0083,Inception,Comedy,180,1.5,2024-06-04,Desktop,Hindi,False,Standard
+U0036,The Matrix,Comedy,74,4.1,2023-03-06,Smart TV,Spanish,True,Basic
+U0047,Interstellar,Action,101,1.7,2024-01-29,Tablet,German,True,Premium
+U0077,Parasite,Action,53,1.4,2023-01-02,Desktop,Spanish,True,Premium
+U0046,Inception,Drama,108,3.0,2023-07-30,Tablet,English,True,Basic
+U0073,The Matrix,Romance,26,4.2,2023-05-30,Desktop,Spanish,True,Standard
+U0089,Parasite,Action,61,2.6,2023-11-05,Mobile,English,True,Standard
+U0066,The Godfather,Romance,162,1.0,2023-05-02,Tablet,English,False,Standard
+U0060,Edge of Tomorrow,Action,48,3.3,2024-05-17,Desktop,English,False,Standard
+U0097,Inception,Sci-Fi,102,4.4,2024-01-09,Tablet,English,True,Basic
+U0097,Edge of Tomorrow,Thriller,115,3.6,2023-06-19,Desktop,Hindi,True,Standard
+U0070,The Godfather,Sci-Fi,111,4.4,2023-03-14,Desktop,Spanish,False,Standard
+U0099,Interstellar,Thriller,168,1.4,2023-10-29,Desktop,Spanish,False,Standard
+U0053,Edge of Tomorrow,Drama,98,2.6,2024-02-29,Tablet,German,False,Basic
+U0041,Avengers: Endgame,Romance,80,3.3,2023-10-10,Mobile,Spanish,True,Standard
+U0090,La La Land,Romance,98,2.9,2023-06-15,Laptop,English,False,Premium
+U0057,The Matrix,Romance,21,1.5,2023-08-21,Desktop,English,True,Standard
+U0088,Joker,Sci-Fi,94,3.3,2023-11-30,Mobile,Korean,False,Standard
+U0070,La La Land,Romance,19,1.8,2023-07-09,Tablet,English,False,Basic
+U0054,La La Land,Drama,103,3.0,2023-03-15,Laptop,Korean,False,Premium
+U0089,Parasite,Drama,154,4.5,2023-05-11,Desktop,Hindi,False,Standard
+U0088,La La Land,Action,36,1.7,2024-01-30,Smart TV,French,False,Basic
+U0080,Edge of Tomorrow,Comedy,11,2.6,2023-03-16,Laptop,Hindi,False,Basic
+U0099,La La Land,Thriller,165,3.7,2023-11-19,Tablet,Hindi,False,Basic
+U0035,Avengers: Endgame,Drama,110,3.0,2024-02-03,Desktop,Spanish,False,Basic
+U0083,La La Land,Thriller,33,1.4,2024-01-01,Laptop,Korean,False,Standard
+U0014,La La Land,Romance,60,3.4,2023-10-24,Desktop,French,False,Premium
+U0045,Edge of Tomorrow,Action,62,4.7,2023-06-29,Tablet,English,False,Basic
+U0094,Avengers: Endgame,Drama,32,2.6,2023-06-11,Mobile,English,False,Standard
+U0069,Inception,Comedy,71,3.7,2023-06-25,Desktop,English,False,Standard
+U0010,Edge of Tomorrow,Sci-Fi,14,3.1,2023-01-02,Tablet,Korean,False,Premium
+U0008,Interstellar,Action,15,2.7,2023-07-28,Laptop,French,False,Standard
+U0004,Parasite,Action,44,3.2,2023-11-30,Tablet,Spanish,True,Basic
+U0030,Inception,Drama,74,3.8,2024-03-12,Desktop,English,False,Basic
+U0001,Avengers: Endgame,Romance,59,3.3,2024-02-17,Smart TV,Korean,True,Standard
+U0068,The Dark Knight,Thriller,76,3.2,2024-02-17,Tablet,Hindi,False,Premium
+U0016,Joker,Thriller,23,3.8,2024-04-16,Desktop,English,True,Premium
+U0057,Joker,Romance,82,3.9,2023-07-18,Laptop,German,True,Standard
+U0081,Inception,Drama,85,1.5,2023-10-13,Tablet,Hindi,False,Standard
+U0027,Parasite,Drama,14,2.7,2024-03-05,Mobile,German,False,Standard
+U0099,Avengers: Endgame,Thriller,88,3.8,2023-11-27,Desktop,French,True,Standard
+U0026,Avengers: Endgame,Comedy,56,3.2,2023-06-07,Laptop,Korean,True,Standard
+U0077,Parasite,Romance,115,3.3,2023-12-07,Desktop,English,True,Standard
+U0040,Inception,Drama,33,4.3,2023-06-08,Mobile,Korean,False,Basic
+U0079,Parasite,Thriller,45,1.4,2023-09-17,Tablet,Spanish,False,Basic
+U0068,Parasite,Action,11,4.2,2023-10-10,Tablet,English,False,Standard
+U0083,La La Land,Sci-Fi,17,1.8,2023-12-10,Laptop,German,True,Standard
+U0005,La La Land,Thriller,64,4.0,2023-07-18,Desktop,English,False,Premium
+U0006,Joker,Sci-Fi,119,2.4,2023-04-27,Desktop,Hindi,False,Premium
+U0007,Joker,Action,135,3.0,2023-11-26,Desktop,Hindi,False,Standard
+U0092,Inception,Action,35,3.8,2024-04-04,Laptop,English,False,Premium
+U0044,The Godfather,Sci-Fi,32,1.4,2023-10-27,Laptop,German,False,Standard
+U0017,Inception,Drama,172,4.8,2023-03-28,Smart TV,Spanish,False,Premium
+U0056,Inception,Drama,53,2.3,2023-09-18,Laptop,French,False,Standard
+U0078,The Dark Knight,Action,136,1.4,2023-02-26,Desktop,French,True,Basic
+U0029,Interstellar,Thriller,126,3.3,2024-06-29,Mobile,Korean,True,Standard
+U0028,The Dark Knight,Romance,165,1.9,2024-05-29,Mobile,Hindi,False,Standard
+U0034,The Matrix,Comedy,159,3.8,2024-01-31,Smart TV,Spanish,True,Basic
+U0024,Joker,Sci-Fi,58,3.8,2024-01-24,Tablet,English,False,Basic
+U0013,Joker,Sci-Fi,57,2.5,2023-10-15,Tablet,German,False,Premium
+U0061,Interstellar,Sci-Fi,127,4.6,2023-06-14,Mobile,Korean,False,Premium
+U0002,Edge of Tomorrow,Thriller,27,3.6,2023-10-26,Mobile,Spanish,True,Basic
+U0035,Edge of Tomorrow,Comedy,113,2.9,2023-10-12,Smart TV,Korean,False,Premium
+U0059,The Dark Knight,Comedy,169,3.1,2024-04-12,Tablet,Hindi,False,Premium
+U0076,Interstellar,Drama,92,1.7,2023-09-27,Mobile,Korean,False,Standard
+U0002,The Godfather,Romance,62,2.2,2023-11-10,Mobile,German,True,Standard
+U0057,Inception,Action,180,2.8,2024-03-21,Smart TV,French,False,Premium
+U0064,Avengers: Endgame,Sci-Fi,131,4.1,2024-02-17,Desktop,French,False,Basic
+U0088,The Matrix,Action,155,2.3,2024-06-02,Tablet,German,False,Premium
+U0022,Parasite,Thriller,43,2.7,2023-09-29,Smart TV,French,False,Standard
+U0043,Avengers: Endgame,Romance,107,1.7,2024-01-13,Desktop,Spanish,False,Premium
+U0001,La La Land,Sci-Fi,88,3.0,2024-04-12,Smart TV,French,True,Premium
+U0082,Joker,Comedy,23,4.3,2023-09-30,Desktop,Korean,True,Premium
+U0100,Joker,Comedy,118,3.9,2023-02-19,Smart TV,French,False,Standard
+U0041,The Dark Knight,Drama,161,1.5,2023-04-21,Smart TV,Spanish,True,Premium
+U0051,Interstellar,Thriller,177,3.0,2024-05-23,Desktop,English,False,Basic
+U0049,La La Land,Thriller,180,3.8,2024-05-15,Smart TV,German,True,Premium
+U0016,Parasite,Drama,42,4.8,2023-09-12,Tablet,Spanish,True,Basic
+U0039,Joker,Comedy,153,3.3,2023-09-17,Tablet,Korean,True,Standard
+U0099,The Godfather,Thriller,62,2.7,2023-02-19,Smart TV,German,True,Premium
+U0086,Parasite,Sci-Fi,132,4.1,2023-04-17,Tablet,French,True,Premium
+U0036,Joker,Comedy,124,1.8,2023-05-26,Desktop,Spanish,False,Basic
+U0024,Avengers: Endgame,Comedy,29,4.0,2023-02-03,Mobile,Hindi,False,Standard
+U0053,The Matrix,Comedy,124,2.0,2023-07-29,Desktop,English,True,Basic
+U0091,Parasite,Action,50,4.0,2023-02-19,Smart TV,Spanish,True,Basic
+U0026,Interstellar,Drama,28,3.6,2023-04-13,Mobile,German,False,Standard
+U0019,The Dark Knight,Romance,47,2.6,2024-05-31,Mobile,German,False,Basic
+U0066,The Godfather,Romance,74,1.4,2024-03-25,Desktop,Korean,False,Premium
+U0073,La La Land,Drama,105,3.6,2024-04-23,Desktop,Korean,False,Basic
+U0068,Inception,Drama,140,4.0,2024-02-28,Tablet,French,False,Standard
+U0089,The Matrix,Action,177,5.0,2023-04-25,Desktop,English,False,Standard
+U0061,The Godfather,Comedy,146,2.1,2024-03-10,Tablet,Spanish,False,Basic
+U0059,The Matrix,Drama,31,2.7,2023-12-17,Mobile,Spanish,True,Premium
+U0099,The Matrix,Sci-Fi,36,2.4,2023-08-16,Tablet,French,True,Basic
+U0024,The Matrix,Sci-Fi,153,1.6,2023-05-08,Smart TV,Korean,True,Premium
+U0083,The Dark Knight,Romance,95,3.9,2023-04-27,Tablet,German,True,Basic
+U0056,Joker,Comedy,96,2.4,2024-05-10,Smart TV,English,True,Standard
+U0049,Edge of Tomorrow,Romance,158,3.9,2023-08-10,Desktop,Korean,False,Basic
+U0010,The Matrix,Drama,17,3.9,2023-10-15,Tablet,Korean,True,Basic
+U0046,Edge of Tomorrow,Sci-Fi,83,4.6,2023-04-01,Smart TV,Spanish,False,Basic
+U0079,The Dark Knight,Drama,145,1.3,2023-04-08,Desktop,French,False,Basic
+U0047,Edge of Tomorrow,Romance,179,3.9,2023-09-03,Desktop,Spanish,False,Standard
+U0033,La La Land,Thriller,110,1.2,2024-02-18,Laptop,German,True,Basic
+U0032,Interstellar,Drama,92,3.4,2024-03-31,Mobile,English,True,Standard
+U0009,The Godfather,Comedy,161,2.2,2023-07-22,Laptop,Spanish,True,Standard
+U0074,Parasite,Thriller,149,4.3,2023-04-15,Mobile,English,False,Basic
+U0056,La La Land,Drama,165,2.6,2023-11-06,Laptop,Spanish,False,Premium
+U0002,Joker,Action,35,4.7,2023-04-06,Desktop,French,False,Premium
+U0046,La La Land,Action,51,2.0,2024-06-07,Laptop,English,True,Basic
+U0080,Inception,Romance,172,4.9,2023-04-27,Mobile,Spanish,False,Basic
+U0093,Interstellar,Thriller,69,1.4,2024-02-26,Smart TV,English,True,Premium
+U0035,The Godfather,Thriller,132,1.5,2023-06-04,Smart TV,Hindi,False,Basic
+U0090,Interstellar,Drama,76,4.0,2023-11-22,Mobile,French,True,Basic
+U0043,The Godfather,Action,47,2.5,2024-04-05,Laptop,English,False,Premium
+U0042,The Dark Knight,Action,31,4.2,2023-09-10,Smart TV,Spanish,True,Basic
+U0021,Avengers: Endgame,Comedy,97,1.6,2023-07-24,Mobile,German,False,Basic
+U0080,Joker,Thriller,106,2.5,2023-01-05,Desktop,Korean,False,Premium
+U0086,Inception,Thriller,58,5.0,2024-05-09,Mobile,French,False,Standard
+U0062,La La Land,Thriller,156,3.7,2023-04-01,Mobile,German,False,Basic
+U0091,Interstellar,Drama,63,3.6,2024-01-18,Smart TV,English,False,Basic
+U0050,Joker,Comedy,58,4.6,2024-01-13,Smart TV,Korean,True,Basic
+U0085,The Dark Knight,Drama,158,1.1,2023-04-01,Smart TV,Hindi,True,Premium
+U0090,La La Land,Thriller,24,2.5,2023-03-02,Tablet,German,True,Premium
+U0012,The Dark Knight,Sci-Fi,78,4.8,2023-08-13,Laptop,Korean,True,Standard
+U0023,The Godfather,Sci-Fi,65,1.3,2024-06-25,Mobile,Hindi,True,Basic
+U0004,The Matrix,Thriller,116,1.0,2024-05-27,Tablet,French,False,Basic
+U0066,Edge of Tomorrow,Romance,159,4.5,2023-07-02,Desktop,Korean,True,Basic
+U0030,The Dark Knight,Action,15,3.0,2023-05-18,Mobile,Spanish,True,Standard
+U0076,The Godfather,Action,27,4.7,2023-02-21,Smart TV,Hindi,False,Premium
+U0092,Avengers: Endgame,Comedy,84,2.8,2024-05-04,Smart TV,Korean,False,Standard
+U0018,Edge of Tomorrow,Drama,145,3.9,2023-10-06,Laptop,Spanish,True,Basic
+U0013,Parasite,Thriller,14,4.0,2023-02-26,Laptop,Korean,True,Basic
+U0098,The Matrix,Thriller,179,1.3,2023-11-19,Mobile,French,False,Basic
+U0005,The Dark Knight,Comedy,101,1.2,2024-04-05,Smart TV,German,False,Premium
+U0029,The Godfather,Action,120,3.4,2024-04-29,Tablet,English,False,Standard
+U0078,Avengers: Endgame,Drama,177,4.6,2023-05-04,Tablet,Spanish,True,Premium
+U0058,Interstellar,Romance,167,3.3,2023-05-07,Laptop,English,False,Basic
+U0001,The Godfather,Sci-Fi,19,2.1,2023-10-09,Smart TV,French,True,Standard
+U0023,Inception,Comedy,165,3.8,2024-03-10,Desktop,Korean,False,Premium
+U0039,La La Land,Thriller,112,1.8,2023-05-30,Tablet,Spanish,False,Standard
+U0034,Joker,Drama,123,4.6,2024-02-09,Laptop,English,False,Standard
+U0097,Inception,Drama,12,1.8,2024-01-09,Smart TV,Hindi,False,Standard
+U0050,The Godfather,Action,10,3.4,2024-05-05,Tablet,German,False,Standard
+U0002,Interstellar,Drama,143,3.7,2024-04-06,Mobile,Korean,True,Basic
+U0058,Avengers: Endgame,Comedy,59,3.9,2023-08-28,Desktop,English,True,Basic
+U0005,Inception,Drama,128,1.0,2023-06-10,Mobile,French,False,Premium
+U0089,Interstellar,Sci-Fi,19,3.1,2023-03-19,Tablet,English,True,Basic
+U0063,The Matrix,Sci-Fi,54,1.5,2024-02-27,Smart TV,Korean,True,Basic
+U0049,Joker,Action,42,2.4,2024-05-07,Desktop,Korean,False,Basic
+U0072,Avengers: Endgame,Sci-Fi,129,1.3,2023-05-12,Smart TV,French,False,Basic
+U0030,Avengers: Endgame,Comedy,115,4.2,2023-07-08,Tablet,English,True,Standard
+U0022,Joker,Thriller,132,1.9,2023-10-02,Tablet,Spanish,True,Standard
+U0064,The Godfather,Action,125,2.8,2023-10-02,Smart TV,Spanish,True,Basic
+U0004,Inception,Thriller,136,2.6,2023-02-22,Tablet,German,True,Premium
+U0079,La La Land,Comedy,18,1.8,2023-08-08,Smart TV,Spanish,False,Premium
+U0028,The Matrix,Drama,72,3.2,2023-07-14,Mobile,German,False,Standard
+U0053,The Matrix,Romance,117,3.4,2024-06-07,Mobile,English,False,Basic
+U0024,Edge of Tomorrow,Sci-Fi,102,4.3,2024-02-03,Laptop,French,False,Basic
+U0045,Inception,Comedy,171,1.3,2023-12-01,Mobile,German,False,Basic
+U0082,The Dark Knight,Action,132,3.9,2023-11-21,Mobile,German,False,Premium
+U0053,Interstellar,Drama,81,2.2,2023-11-06,Mobile,Spanish,True,Premium
+U0034,Parasite,Comedy,99,4.8,2023-10-03,Desktop,German,True,Premium
+U0079,Inception,Action,15,2.1,2024-06-17,Smart TV,English,False,Standard
+U0010,Joker,Drama,66,4.1,2024-03-22,Smart TV,English,True,Standard
+U0091,The Godfather,Sci-Fi,117,3.6,2023-11-16,Mobile,French,True,Standard
+U0019,La La Land,Comedy,11,3.0,2023-07-09,Desktop,French,True,Premium
+U0003,The Dark Knight,Romance,100,2.3,2024-03-31,Laptop,Korean,True,Premium
+U0055,Avengers: Endgame,Romance,49,2.5,2023-01-22,Desktop,English,False,Basic
+U0025,The Godfather,Action,159,4.0,2023-06-11,Mobile,Hindi,False,Premium
+U0096,The Godfather,Thriller,87,1.2,2023-01-13,Tablet,Korean,False,Standard
+U0051,Parasite,Sci-Fi,128,2.1,2023-05-19,Tablet,Hindi,False,Premium
+U0075,The Dark Knight,Romance,75,1.6,2024-04-06,Smart TV,English,False,Premium
+U0058,The Godfather,Thriller,29,1.8,2023-07-09,Laptop,Korean,True,Basic
+U0061,The Dark Knight,Drama,56,3.3,2023-01-08,Desktop,English,True,Standard
+U0020,Inception,Drama,28,4.7,2023-07-22,Desktop,French,True,Standard
+U0069,The Godfather,Drama,105,3.7,2023-09-30,Tablet,Spanish,True,Standard
+U0021,The Dark Knight,Comedy,11,1.5,2023-03-12,Tablet,Korean,True,Basic
+U0024,Joker,Romance,77,3.9,2023-03-01,Smart TV,French,True,Basic
+U0092,Interstellar,Action,106,1.4,2023-03-30,Desktop,Spanish,False,Standard
+U0048,La La Land,Comedy,161,2.4,2023-07-06,Laptop,French,False,Standard
+U0045,La La Land,Drama,58,3.1,2024-05-22,Desktop,French,True,Basic
+U0033,Inception,Drama,49,1.4,2024-04-27,Tablet,Korean,False,Basic
+U0064,Avengers: Endgame,Action,49,1.2,2023-09-10,Mobile,English,False,Basic
+U0052,Avengers: Endgame,Thriller,63,2.0,2023-12-20,Mobile,English,False,Basic
+U0098,Edge of Tomorrow,Comedy,101,4.0,2023-10-12,Mobile,Spanish,True,Premium
+U0033,Interstellar,Sci-Fi,74,2.3,2024-03-04,Desktop,English,True,Standard
+U0010,The Godfather,Romance,52,1.6,2024-02-22,Desktop,Spanish,True,Standard
+U0073,The Dark Knight,Thriller,86,2.7,2024-06-22,Tablet,French,False,Basic
+U0018,La La Land,Action,161,2.0,2023-06-25,Mobile,German,False,Basic
+U0065,La La Land,Thriller,133,2.9,2024-02-15,Desktop,English,True,Premium
+U0043,Inception,Drama,139,4.0,2023-04-17,Tablet,Korean,False,Basic
+U0063,Joker,Action,82,3.2,2024-04-13,Mobile,English,False,Basic
+U0058,Avengers: Endgame,Romance,63,4.3,2023-01-14,Tablet,Spanish,True,Standard
+U0040,The Godfather,Sci-Fi,151,1.3,2024-04-28,Smart TV,English,False,Standard
+U0033,La La Land,Action,17,3.0,2023-07-02,Tablet,Korean,True,Premium
+U0044,Interstellar,Sci-Fi,103,2.1,2023-04-13,Mobile,French,True,Basic
+U0062,Parasite,Sci-Fi,22,4.0,2024-01-25,Smart TV,Spanish,True,Standard
+U0090,Joker,Drama,36,3.4,2024-06-14,Laptop,German,False,Basic
+U0016,Inception,Thriller,153,4.2,2024-04-24,Smart TV,Hindi,True,Basic
+U0062,The Dark Knight,Thriller,154,1.5,2023-08-18,Mobile,French,True,Basic
+U0017,Interstellar,Action,142,3.6,2023-03-25,Mobile,Korean,False,Standard
+U0034,Avengers: Endgame,Romance,48,1.3,2023-01-24,Desktop,German,False,Premium
+U0079,The Godfather,Romance,80,2.4,2024-03-12,Laptop,Hindi,False,Premium
+U0076,Parasite,Romance,111,3.4,2023-12-23,Desktop,French,False,Premium
+U0083,Parasite,Comedy,85,2.3,2023-02-15,Laptop,Spanish,False,Premium
+U0080,The Matrix,Romance,53,5.0,2023-08-26,Smart TV,French,False,Premium
+U0033,The Dark Knight,Romance,75,1.3,2023-11-04,Smart TV,Hindi,False,Standard
+U0056,The Matrix,Sci-Fi,163,3.0,2023-08-06,Laptop,French,False,Standard
+U0027,Avengers: Endgame,Comedy,155,4.3,2023-12-17,Smart TV,French,False,Basic
+U0031,Edge of Tomorrow,Drama,74,3.2,2024-05-09,Mobile,Spanish,False,Standard
+U0094,Edge of Tomorrow,Thriller,170,1.6,2023-04-16,Desktop,Korean,True,Premium
+U0008,Parasite,Thriller,143,1.4,2024-03-21,Laptop,French,True,Basic
+U0006,The Dark Knight,Drama,131,3.8,2023-01-17,Smart TV,German,True,Basic
+U0048,Joker,Comedy,148,3.0,2023-10-06,Mobile,Hindi,False,Premium
+U0044,Inception,Drama,164,1.3,2023-06-03,Mobile,Korean,True,Premium
+U0037,Edge of Tomorrow,Romance,153,1.8,2024-05-23,Laptop,Hindi,True,Basic
+U0063,Avengers: Endgame,Sci-Fi,143,4.5,2023-09-08,Smart TV,French,False,Standard
+U0035,The Godfather,Sci-Fi,18,4.1,2023-03-03,Smart TV,German,False,Premium
+U0091,Interstellar,Thriller,40,4.6,2023-08-06,Tablet,Spanish,True,Premium
+U0023,Interstellar,Thriller,59,1.1,2023-11-13,Mobile,English,True,Basic
+U0038,Avengers: Endgame,Sci-Fi,100,1.1,2023-01-27,Laptop,Spanish,False,Standard
+U0089,Parasite,Drama,58,1.6,2024-03-29,Laptop,French,False,Standard
+U0081,The Matrix,Action,177,2.7,2023-12-21,Mobile,Korean,True,Standard
+U0076,Joker,Comedy,116,2.0,2023-01-26,Mobile,English,False,Premium
+U0085,Inception,Romance,39,3.1,2024-01-29,Laptop,English,False,Basic
+U0048,Edge of Tomorrow,Sci-Fi,17,2.1,2023-01-28,Desktop,English,False,Basic
+U0090,Avengers: Endgame,Action,89,4.4,2023-01-04,Tablet,Hindi,False,Standard
+U0056,Joker,Thriller,18,3.8,2023-09-08,Laptop,Spanish,True,Standard
+U0040,The Matrix,Comedy,166,1.2,2023-04-05,Mobile,French,False,Premium
+U0094,Avengers: Endgame,Thriller,19,1.0,2024-02-23,Mobile,French,True,Premium
+U0038,La La Land,Drama,70,1.6,2024-04-21,Mobile,Spanish,True,Basic
+U0054,Avengers: Endgame,Comedy,65,3.3,2024-04-06,Tablet,German,True,Basic
+U0005,Avengers: Endgame,Drama,148,3.8,2023-08-17,Smart TV,Hindi,True,Basic
+U0033,The Godfather,Comedy,56,4.8,2023-02-18,Laptop,French,False,Premium
+U0081,Parasite,Sci-Fi,10,1.6,2024-03-10,Desktop,Spanish,False,Basic
+U0058,Interstellar,Sci-Fi,155,4.4,2023-11-15,Mobile,Hindi,True,Standard
+U0060,The Godfather,Thriller,76,2.2,2024-05-18,Laptop,English,True,Premium
+U0022,Inception,Thriller,12,4.5,2024-06-05,Laptop,Spanish,True,Premium
+U0062,La La Land,Action,73,2.9,2023-10-03,Tablet,Spanish,False,Basic
+U0007,Interstellar,Sci-Fi,128,2.7,2023-08-13,Tablet,German,False,Basic
+U0024,Parasite,Action,156,3.4,2024-01-02,Desktop,French,True,Premium
+U0052,The Matrix,Comedy,86,1.3,2023-01-05,Tablet,Spanish,False,Standard
+U0088,Edge of Tomorrow,Drama,180,2.8,2023-12-12,Smart TV,Spanish,True,Standard
+U0004,Avengers: Endgame,Comedy,68,3.6,2023-08-21,Laptop,French,True,Standard
+U0040,Joker,Action,22,2.8,2023-06-08,Mobile,German,True,Standard
+U0009,The Godfather,Comedy,70,4.9,2024-02-16,Smart TV,English,False,Premium
+U0013,Inception,Drama,34,1.9,2023-01-22,Tablet,German,False,Standard
+U0068,Joker,Action,139,4.5,2023-08-17,Mobile,English,True,Premium
+U0067,Inception,Action,101,1.2,2023-11-29,Desktop,Spanish,True,Standard
+U0016,Avengers: Endgame,Thriller,40,3.1,2023-04-26,Laptop,French,True,Premium
+U0032,Avengers: Endgame,Action,127,3.2,2023-11-13,Mobile,Korean,False,Basic
+U0044,Parasite,Sci-Fi,49,1.5,2023-08-20,Laptop,Spanish,True,Premium
+U0039,The Dark Knight,Sci-Fi,122,3.7,2023-08-19,Laptop,English,False,Standard
+U0049,Interstellar,Sci-Fi,177,1.8,2024-05-22,Tablet,German,True,Basic
+U0052,Parasite,Romance,141,4.5,2023-02-19,Laptop,Spanish,False,Standard
+U0076,Interstellar,Sci-Fi,100,3.7,2023-06-10,Desktop,German,False,Standard
+U0006,The Godfather,Romance,38,2.5,2024-01-13,Mobile,German,True,Premium
+U0100,Edge of Tomorrow,Action,171,3.0,2023-01-10,Desktop,Hindi,True,Standard
+U0072,Joker,Thriller,121,3.1,2023-05-05,Smart TV,Korean,False,Premium
+U0015,The Dark Knight,Thriller,52,2.1,2024-06-30,Laptop,French,True,Premium
+U0071,La La Land,Thriller,146,4.1,2024-03-05,Smart TV,English,False,Standard
+U0002,Avengers: Endgame,Action,36,1.4,2024-04-07,Smart TV,Korean,False,Basic
+U0017,Inception,Action,41,3.6,2024-05-15,Smart TV,Hindi,False,Standard
+U0044,La La Land,Action,172,4.8,2023-08-05,Laptop,French,False,Basic
+U0042,The Dark Knight,Thriller,124,4.4,2024-06-23,Laptop,Hindi,False,Standard
+U0057,Joker,Comedy,126,1.2,2024-04-18,Laptop,English,True,Basic
+U0080,The Dark Knight,Drama,16,3.5,2024-02-26,Desktop,Hindi,True,Basic
+U0051,La La Land,Comedy,40,3.4,2024-03-10,Smart TV,German,True,Standard
+U0024,The Matrix,Action,111,3.9,2024-03-22,Tablet,Hindi,True,Premium
+U0080,Inception,Comedy,51,3.3,2024-01-23,Smart TV,English,True,Standard
+U0078,Avengers: Endgame,Romance,93,2.2,2024-05-07,Laptop,French,True,Premium
+U0097,Interstellar,Thriller,89,3.0,2023-12-30,Tablet,German,False,Basic
+U0049,The Matrix,Romance,53,3.8,2023-04-16,Smart TV,Spanish,True,Basic
+U0060,Parasite,Sci-Fi,20,3.6,2023-06-06,Desktop,Spanish,True,Basic
+U0067,The Godfather,Thriller,83,3.5,2023-06-16,Mobile,French,False,Premium
+U0072,The Godfather,Sci-Fi,102,4.1,2023-09-05,Laptop,Spanish,False,Premium
+U0076,Joker,Romance,56,2.2,2023-01-27,Tablet,Korean,False,Standard
+U0039,The Matrix,Romance,156,4.7,2024-03-19,Mobile,French,True,Standard
+U0046,Avengers: Endgame,Drama,14,1.6,2023-08-25,Laptop,English,False,Premium
+U0100,Parasite,Romance,63,3.8,2024-03-23,Smart TV,German,True,Premium
+U0024,The Dark Knight,Comedy,53,1.6,2023-10-21,Laptop,Korean,False,Standard
+U0081,Inception,Sci-Fi,43,1.1,2023-01-01,Mobile,French,True,Standard
+U0041,The Dark Knight,Thriller,95,2.3,2024-05-11,Laptop,German,True,Premium
+U0100,Avengers: Endgame,Drama,38,4.7,2024-03-23,Smart TV,German,False,Basic
+U0099,Joker,Thriller,52,1.7,2023-06-10,Laptop,German,True,Premium
+U0091,Edge of Tomorrow,Comedy,76,1.4,2023-04-01,Smart TV,Hindi,False,Premium
+U0097,The Matrix,Sci-Fi,152,2.5,2023-08-13,Desktop,Hindi,True,Basic
+U0067,Edge of Tomorrow,Thriller,59,4.4,2024-01-01,Tablet,Korean,False,Basic
+U0096,Interstellar,Comedy,97,2.3,2023-08-04,Tablet,Spanish,False,Basic
+U0029,Parasite,Comedy,75,4.7,2023-01-15,Laptop,Spanish,True,Basic
+U0055,Avengers: Endgame,Action,102,3.4,2023-11-02,Mobile,Hindi,True,Premium
+U0013,Joker,Action,113,4.5,2024-03-01,Tablet,English,False,Basic
+U0071,The Godfather,Action,76,4.2,2023-09-27,Desktop,Spanish,True,Basic
+U0030,La La Land,Drama,31,3.1,2023-05-14,Smart TV,French,False,Premium
+U0058,Parasite,Romance,68,3.2,2023-04-16,Tablet,English,True,Basic
+U0092,Edge of Tomorrow,Romance,133,3.4,2024-06-16,Desktop,Korean,True,Premium
+U0078,The Matrix,Thriller,76,4.0,2023-10-19,Laptop,Spanish,False,Basic
+U0062,Parasite,Thriller,100,2.4,2024-04-05,Laptop,English,True,Standard
+U0086,Interstellar,Action,101,4.1,2023-11-14,Laptop,Korean,False,Premium
+U0006,Interstellar,Sci-Fi,88,3.4,2023-10-13,Desktop,Korean,True,Standard
+U0023,Avengers: Endgame,Sci-Fi,58,3.6,2024-03-09,Desktop,French,True,Premium
+U0028,Joker,Action,15,2.2,2023-05-03,Smart TV,Hindi,False,Standard
+U0078,The Godfather,Thriller,111,4.4,2023-12-27,Tablet,Hindi,False,Standard
+U0051,La La Land,Action,88,3.1,2024-04-29,Smart TV,Korean,False,Premium
+U0077,Joker,Thriller,120,1.2,2024-03-20,Tablet,German,True,Standard
+U0021,Inception,Romance,131,4.6,2024-06-24,Smart TV,Spanish,False,Standard
+U0060,La La Land,Romance,57,4.2,2023-10-04,Tablet,French,False,Premium
+U0083,Edge of Tomorrow,Action,155,3.9,2023-12-20,Desktop,French,False,Basic
+U0010,Parasite,Comedy,18,3.6,2023-04-26,Desktop,German,True,Premium
+U0072,Parasite,Action,151,1.4,2024-01-26,Tablet,English,False,Basic
+U0072,Joker,Comedy,120,3.8,2024-01-14,Laptop,German,True,Premium
+U0068,La La Land,Romance,59,4.0,2023-07-05,Tablet,French,True,Standard
+U0044,Interstellar,Drama,139,3.9,2024-06-21,Laptop,French,False,Standard
+U0014,The Dark Knight,Romance,81,2.9,2023-07-08,Desktop,German,False,Premium
+U0087,Joker,Comedy,30,1.1,2024-02-21,Smart TV,English,True,Basic
+U0014,The Dark Knight,Sci-Fi,93,1.2,2024-01-24,Laptop,French,True,Standard
+U0076,The Dark Knight,Romance,147,2.5,2023-05-10,Smart TV,French,False,Standard
+U0086,The Godfather,Thriller,75,3.7,2023-07-07,Laptop,English,False,Premium
+U0019,The Godfather,Comedy,146,3.6,2023-08-27,Mobile,French,False,Basic
+U0063,The Dark Knight,Sci-Fi,141,4.2,2024-02-21,Tablet,Hindi,False,Basic
+U0020,Parasite,Thriller,160,1.4,2024-01-02,Smart TV,Hindi,False,Basic
+U0095,Parasite,Romance,82,4.1,2023-05-15,Desktop,English,False,Standard
+U0096,Inception,Thriller,47,2.7,2023-05-02,Mobile,Hindi,False,Standard
+U0077,Edge of Tomorrow,Action,107,2.1,2023-04-13,Smart TV,English,True,Basic
+U0070,Interstellar,Sci-Fi,27,2.9,2023-04-20,Mobile,Korean,True,Standard
+U0050,Joker,Drama,51,4.4,2024-03-08,Desktop,German,False,Premium
+U0029,Joker,Romance,91,2.3,2024-05-10,Mobile,German,False,Basic
+U0084,Edge of Tomorrow,Drama,72,2.8,2023-08-10,Laptop,German,False,Premium
+U0043,Parasite,Sci-Fi,81,4.4,2023-03-16,Mobile,English,False,Basic
+U0039,Inception,Comedy,12,2.6,2023-07-13,Tablet,Spanish,True,Basic
+U0092,La La Land,Action,64,2.1,2023-08-01,Smart TV,German,True,Premium
+U0020,Edge of Tomorrow,Comedy,73,1.7,2023-10-20,Mobile,French,False,Basic
+U0031,Inception,Sci-Fi,154,3.0,2024-01-18,Desktop,Hindi,False,Basic
+U0002,The Godfather,Action,30,2.1,2023-06-04,Smart TV,English,True,Basic
+U0059,Parasite,Action,89,4.1,2023-05-21,Smart TV,Hindi,True,Premium
+U0095,Avengers: Endgame,Thriller,177,4.2,2024-03-23,Laptop,Hindi,True,Basic
+U0036,La La Land,Romance,15,4.8,2023-05-03,Tablet,French,False,Standard
+U0091,Inception,Drama,11,4.7,2023-08-25,Mobile,Spanish,False,Standard
+U0029,The Matrix,Drama,78,1.9,2024-04-27,Smart TV,German,True,Standard
+U0098,Avengers: Endgame,Thriller,39,2.6,2023-11-13,Smart TV,German,True,Standard
+U0006,The Godfather,Thriller,48,4.6,2023-08-08,Mobile,Spanish,True,Basic
+U0076,Parasite,Action,173,4.2,2023-12-16,Laptop,Hindi,False,Standard
+U0032,Interstellar,Comedy,68,4.4,2024-06-04,Smart TV,Korean,False,Basic
+U0009,Parasite,Drama,62,1.5,2023-09-04,Desktop,Spanish,True,Premium
+U0026,La La Land,Thriller,104,2.9,2023-12-22,Tablet,English,True,Basic
+U0088,The Dark Knight,Thriller,41,3.5,2023-02-05,Desktop,Hindi,False,Basic
+U0077,Avengers: Endgame,Comedy,75,3.7,2023-06-05,Laptop,Spanish,True,Premium
+U0026,La La Land,Sci-Fi,125,1.9,2023-10-30,Mobile,French,True,Basic
+U0095,Edge of Tomorrow,Comedy,32,1.0,2023-02-02,Mobile,German,False,Basic
+U0016,Edge of Tomorrow,Sci-Fi,137,1.5,2023-03-19,Laptop,Hindi,True,Premium
+U0009,Interstellar,Action,137,1.1,2023-11-17,Smart TV,French,True,Basic
+U0010,Parasite,Drama,167,4.1,2023-11-16,Laptop,Korean,True,Standard
+U0082,Joker,Comedy,139,2.1,2023-11-06,Desktop,Hindi,False,Premium
+U0013,Edge of Tomorrow,Drama,138,2.2,2023-06-19,Mobile,Hindi,True,Standard
+U0066,Parasite,Comedy,97,3.8,2023-07-21,Laptop,Korean,False,Standard
+U0069,Interstellar,Drama,85,3.9,2023-01-23,Desktop,English,False,Standard
+U0029,The Godfather,Romance,12,1.0,2023-12-17,Desktop,English,True,Standard
+U0053,Inception,Comedy,166,4.2,2024-05-21,Desktop,Spanish,False,Premium
+U0037,Parasite,Drama,42,4.7,2023-04-10,Tablet,English,False,Premium
+U0071,Joker,Action,86,1.3,2023-11-04,Smart TV,Hindi,True,Premium
+U0100,The Godfather,Action,22,3.3,2024-06-06,Tablet,Spanish,False,Premium
+U0026,Edge of Tomorrow,Thriller,30,4.9,2023-06-17,Desktop,French,True,Standard
+U0070,Joker,Comedy,176,4.1,2024-06-04,Laptop,Hindi,True,Basic
+U0091,Joker,Action,154,3.9,2024-04-05,Desktop,Hindi,True,Basic
+U0078,Inception,Sci-Fi,88,3.0,2023-02-26,Smart TV,French,False,Premium
+U0072,Parasite,Action,12,3.8,2023-03-28,Smart TV,Korean,False,Premium
+U0044,Inception,Romance,57,3.7,2023-06-23,Tablet,Spanish,True,Basic
+U0004,The Dark Knight,Action,119,1.8,2023-07-28,Tablet,English,True,Standard
+U0027,The Matrix,Thriller,97,2.9,2023-07-24,Tablet,Spanish,True,Standard
+U0057,Joker,Romance,130,4.5,2023-05-16,Mobile,Spanish,False,Premium
+U0021,Edge of Tomorrow,Sci-Fi,45,1.7,2023-03-11,Smart TV,English,True,Basic
+U0082,The Godfather,Action,122,3.2,2023-12-19,Desktop,Korean,True,Standard
+U0013,Joker,Drama,69,1.6,2024-06-01,Tablet,French,True,Standard
+U0037,Interstellar,Action,173,3.4,2023-03-13,Mobile,French,False,Premium
+U0072,The Matrix,Action,25,1.8,2023-09-02,Desktop,German,True,Standard
+U0016,Joker,Action,47,3.7,2023-08-29,Tablet,Korean,True,Standard
+U0070,Parasite,Romance,118,2.1,2023-05-25,Desktop,Korean,False,Standard
+U0073,Edge of Tomorrow,Drama,140,2.2,2023-09-10,Tablet,German,True,Basic
+U0051,The Matrix,Drama,120,1.6,2024-03-19,Laptop,German,False,Standard
+U0065,The Dark Knight,Thriller,159,1.8,2024-06-02,Smart TV,German,True,Standard
+U0049,The Matrix,Romance,68,1.6,2024-03-22,Mobile,Hindi,False,Premium
+U0022,Inception,Sci-Fi,21,4.2,2023-02-08,Desktop,German,True,Premium
+U0028,The Godfather,Thriller,167,3.1,2023-11-30,Tablet,French,False,Basic
+U0060,Avengers: Endgame,Sci-Fi,116,3.6,2023-04-06,Desktop,French,False,Basic
+U0097,Avengers: Endgame,Romance,21,1.5,2023-04-28,Laptop,Hindi,False,Premium
+U0032,Interstellar,Action,108,3.4,2023-01-27,Mobile,German,True,Standard
+U0019,Edge of Tomorrow,Comedy,62,3.5,2023-12-29,Mobile,French,True,Premium
+U0038,La La Land,Comedy,153,4.9,2024-06-26,Smart TV,Spanish,True,Basic
+U0022,Avengers: Endgame,Comedy,104,2.7,2024-06-30,Smart TV,Hindi,False,Basic
+U0031,Parasite,Sci-Fi,34,1.8,2023-07-02,Smart TV,French,False,Premium
+U0004,The Matrix,Romance,175,2.9,2023-08-09,Laptop,English,True,Premium
+U0086,Parasite,Sci-Fi,114,1.2,2024-06-14,Laptop,French,False,Standard
+U0018,La La Land,Romance,73,2.0,2023-08-28,Smart TV,Spanish,True,Basic
+U0044,The Matrix,Drama,151,1.3,2024-03-17,Desktop,French,True,Basic
+U0075,The Matrix,Comedy,168,4.8,2023-04-25,Tablet,English,True,Standard
+U0062,Joker,Sci-Fi,95,3.0,2023-03-25,Mobile,English,False,Standard
+U0097,Interstellar,Comedy,48,4.5,2024-05-01,Tablet,Korean,True,Premium
+U0054,Edge of Tomorrow,Sci-Fi,100,1.2,2023-02-28,Desktop,German,True,Premium
+U0040,La La Land,Comedy,72,1.4,2023-09-27,Laptop,French,True,Standard
+U0021,Inception,Comedy,74,4.5,2024-06-27,Mobile,Hindi,True,Basic
+U0085,La La Land,Drama,136,1.5,2023-10-05,Smart TV,French,True,Premium
+U0049,Inception,Comedy,70,4.2,2024-04-14,Tablet,German,True,Standard
+U0064,The Dark Knight,Action,154,2.3,2024-01-11,Mobile,Spanish,False,Standard
+U0098,Inception,Sci-Fi,105,1.8,2023-09-04,Laptop,English,False,Basic
+U0100,Interstellar,Drama,54,1.0,2023-04-04,Smart TV,Korean,False,Standard
+U0013,Parasite,Action,172,1.1,2024-04-04,Smart TV,Korean,False,Basic
+U0055,Inception,Romance,25,2.3,2023-09-26,Smart TV,English,False,Standard
+U0015,Inception,Thriller,129,4.3,2023-12-14,Desktop,Spanish,True,Basic
+U0042,Interstellar,Sci-Fi,35,2.3,2024-04-27,Tablet,German,False,Premium
+U0090,The Godfather,Comedy,44,1.4,2024-03-13,Desktop,Korean,True,Premium
+U0024,La La Land,Comedy,129,3.0,2023-08-11,Desktop,German,False,Standard
+U0045,Interstellar,Romance,39,2.5,2023-05-11,Desktop,English,True,Premium
+U0069,La La Land,Drama,21,3.0,2023-08-27,Tablet,English,True,Premium
+U0019,The Dark Knight,Romance,101,2.6,2023-08-11,Desktop,Korean,False,Basic
+U0085,The Godfather,Drama,97,1.9,2024-02-06,Smart TV,Hindi,True,Standard
+U0019,Parasite,Comedy,83,4.6,2023-01-31,Smart TV,Hindi,True,Standard
+U0009,Edge of Tomorrow,Action,63,1.8,2024-06-23,Desktop,Hindi,True,Standard
+U0020,Interstellar,Drama,150,1.6,2023-05-26,Desktop,German,True,Basic
+U0030,Interstellar,Comedy,23,2.1,2023-05-03,Desktop,Hindi,True,Premium
+U0067,Parasite,Action,153,1.1,2023-07-15,Laptop,Hindi,True,Standard
+U0007,The Dark Knight,Thriller,91,1.8,2023-03-21,Smart TV,German,False,Premium
+U0049,The Godfather,Sci-Fi,102,2.1,2023-12-26,Laptop,English,True,Premium
+U0005,The Godfather,Drama,69,4.1,2023-07-09,Smart TV,German,False,Premium
+U0053,La La Land,Comedy,81,2.7,2023-11-29,Laptop,German,False,Premium
+U0041,The Dark Knight,Drama,35,3.2,2023-10-29,Laptop,Hindi,False,Premium
+U0018,Joker,Action,59,3.5,2023-07-07,Tablet,Korean,True,Premium
+U0014,Joker,Drama,133,3.1,2023-01-02,Desktop,English,False,Basic
+U0075,The Matrix,Thriller,163,4.0,2023-10-16,Desktop,French,True,Basic
+U0041,Joker,Sci-Fi,78,2.3,2023-10-12,Mobile,Korean,True,Premium
+U0031,The Godfather,Romance,171,3.5,2023-03-28,Desktop,Hindi,True,Basic
+U0044,Avengers: Endgame,Action,14,3.6,2023-10-08,Laptop,English,False,Standard
+U0091,Inception,Romance,146,1.3,2023-01-26,Smart TV,Korean,True,Basic
+U0024,Inception,Romance,59,1.5,2023-12-15,Mobile,English,True,Premium
+U0063,Edge of Tomorrow,Romance,64,3.2,2023-04-04,Tablet,French,True,Basic
+U0041,Edge of Tomorrow,Action,180,3.8,2023-03-03,Desktop,Hindi,True,Basic
+U0015,Avengers: Endgame,Drama,13,3.8,2024-01-29,Tablet,Spanish,True,Premium
+U0021,Edge of Tomorrow,Action,169,5.0,2024-03-27,Mobile,Korean,False,Basic
+U0041,Edge of Tomorrow,Thriller,175,4.5,2023-02-17,Mobile,French,True,Premium
+U0015,Avengers: Endgame,Romance,136,4.9,2023-05-12,Tablet,French,True,Basic
+U0049,The Dark Knight,Sci-Fi,11,1.7,2024-03-01,Mobile,Spanish,False,Standard
+U0085,Avengers: Endgame,Thriller,106,2.8,2023-10-19,Mobile,Spanish,True,Standard
+U0087,The Godfather,Action,101,1.5,2023-12-23,Laptop,English,True,Basic
+U0063,The Matrix,Comedy,53,1.8,2023-12-19,Desktop,English,True,Standard
+U0022,Inception,Comedy,146,4.6,2024-06-18,Mobile,French,True,Basic
+U0092,The Godfather,Romance,29,4.3,2024-02-27,Mobile,Spanish,False,Basic
+U0020,Joker,Action,39,2.5,2023-12-05,Desktop,Hindi,False,Premium
+U0041,Joker,Comedy,104,2.9,2024-05-24,Desktop,Spanish,False,Premium
+U0054,Parasite,Sci-Fi,69,3.3,2023-09-08,Desktop,German,False,Standard
+U0029,Avengers: Endgame,Drama,148,4.8,2023-06-26,Desktop,Korean,False,Premium
+U0092,The Matrix,Sci-Fi,168,3.9,2023-04-21,Laptop,French,False,Premium
+U0021,Parasite,Sci-Fi,45,1.6,2023-07-17,Tablet,Hindi,True,Basic
+U0023,Interstellar,Drama,59,3.6,2023-10-11,Smart TV,Korean,False,Premium
+U0032,La La Land,Sci-Fi,26,3.4,2024-06-28,Tablet,German,False,Basic
+U0040,The Dark Knight,Romance,75,4.2,2024-01-12,Mobile,French,True,Basic
+U0064,Parasite,Comedy,165,4.6,2024-04-09,Mobile,Korean,True,Standard
+U0060,Parasite,Comedy,175,2.3,2024-06-26,Tablet,German,True,Standard
+U0095,The Matrix,Action,171,4.3,2023-04-17,Desktop,German,True,Standard
+U0059,Parasite,Sci-Fi,169,3.8,2023-10-05,Desktop,English,False,Basic
+U0045,Interstellar,Comedy,151,3.7,2023-09-16,Tablet,German,False,Premium
+U0056,Joker,Comedy,116,4.7,2024-02-27,Mobile,Korean,False,Premium
+U0049,Inception,Sci-Fi,113,2.2,2023-04-24,Tablet,English,True,Basic
+U0070,Inception,Comedy,124,3.2,2024-06-04,Tablet,Spanish,True,Standard
+U0072,La La Land,Romance,169,4.6,2024-02-16,Mobile,Korean,True,Basic
+U0027,Interstellar,Comedy,144,4.0,2023-05-30,Desktop,Korean,False,Premium
+U0017,Interstellar,Romance,161,1.3,2024-01-12,Smart TV,English,False,Premium
+U0019,The Godfather,Drama,145,2.3,2024-05-08,Tablet,English,False,Premium
+U0045,Joker,Romance,41,4.2,2024-03-28,Smart TV,English,False,Standard
+U0039,The Matrix,Romance,57,2.4,2024-04-16,Desktop,French,False,Standard
+U0010,The Godfather,Action,142,3.6,2023-09-05,Laptop,French,False,Standard
+U0039,Joker,Action,58,2.8,2023-03-19,Laptop,Hindi,False,Premium
+U0013,The Godfather,Drama,146,3.2,2024-01-31,Mobile,Korean,False,Standard
+U0091,Parasite,Drama,127,3.4,2023-09-20,Tablet,Hindi,False,Standard
+U0012,Avengers: Endgame,Romance,54,3.8,2024-05-17,Smart TV,Spanish,True,Premium
+U0039,Avengers: Endgame,Action,166,1.1,2023-10-23,Tablet,French,True,Premium
+U0091,Inception,Drama,72,1.8,2023-10-12,Smart TV,Spanish,False,Standard
+U0086,Inception,Sci-Fi,162,4.7,2023-06-09,Smart TV,French,True,Basic
+U0003,Edge of Tomorrow,Comedy,145,4.0,2024-04-13,Desktop,Hindi,False,Basic
+U0030,Parasite,Action,109,1.1,2023-08-21,Desktop,French,False,Premium
+U0001,Parasite,Romance,90,3.0,2023-08-23,Mobile,Korean,False,Standard
+U0082,Parasite,Romance,169,2.7,2023-10-24,Smart TV,English,True,Basic
+U0074,The Godfather,Romance,168,3.7,2024-06-28,Tablet,Korean,True,Standard
+U0095,Avengers: Endgame,Romance,141,4.8,2024-02-13,Mobile,Spanish,False,Premium
+U0003,Edge of Tomorrow,Romance,108,1.6,2023-08-05,Tablet,English,True,Standard
+U0047,Joker,Drama,27,1.5,2023-02-07,Laptop,Spanish,True,Premium
+U0096,Interstellar,Sci-Fi,80,1.7,2023-11-24,Laptop,Korean,True,Premium
+U0100,Avengers: Endgame,Comedy,79,4.5,2024-01-12,Tablet,Spanish,True,Basic
+U0036,The Godfather,Romance,114,2.7,2024-05-12,Tablet,Korean,False,Premium
+U0085,Inception,Action,12,1.4,2023-03-26,Mobile,English,False,Premium
+U0009,Joker,Sci-Fi,134,4.8,2024-01-22,Tablet,Spanish,False,Basic
+U0075,Parasite,Romance,175,2.8,2024-02-15,Smart TV,Spanish,False,Basic
+U0082,Edge of Tomorrow,Comedy,116,4.2,2024-02-13,Desktop,Korean,False,Premium
+U0016,Parasite,Action,168,4.8,2023-04-22,Smart TV,English,False,Premium
+U0060,The Matrix,Romance,132,1.4,2023-09-26,Mobile,Hindi,False,Standard
+U0050,The Dark Knight,Comedy,27,4.0,2024-03-16,Smart TV,French,False,Premium
+U0024,The Matrix,Romance,122,1.8,2023-11-14,Smart TV,Korean,False,Premium
+U0091,Parasite,Thriller,133,2.1,2024-06-20,Mobile,English,True,Standard
+U0066,The Godfather,Drama,53,4.2,2024-06-10,Laptop,Spanish,True,Basic
+U0093,Edge of Tomorrow,Action,103,3.9,2023-02-07,Desktop,Hindi,False,Premium
+U0039,Avengers: Endgame,Action,79,4.3,2023-07-26,Tablet,Spanish,True,Basic
+U0068,Avengers: Endgame,Sci-Fi,156,4.3,2023-05-06,Smart TV,Spanish,True,Standard
+U0006,Interstellar,Action,108,2.4,2023-11-13,Mobile,Spanish,True,Premium
+U0061,Inception,Sci-Fi,81,4.7,2023-11-20,Mobile,French,False,Premium
+U0059,Inception,Action,180,2.7,2023-04-11,Tablet,English,False,Premium
+U0009,Interstellar,Drama,121,1.4,2023-06-14,Laptop,German,True,Standard
+U0075,Avengers: Endgame,Action,23,3.0,2023-07-21,Tablet,French,True,Standard
+U0015,Joker,Sci-Fi,85,3.3,2023-09-13,Tablet,Korean,False,Basic
+U0004,Parasite,Thriller,131,3.6,2024-05-31,Mobile,French,False,Standard
+U0028,Joker,Action,81,3.7,2023-01-10,Laptop,Spanish,False,Premium
+U0073,Parasite,Romance,117,4.7,2024-02-21,Desktop,Hindi,True,Basic
+U0058,La La Land,Drama,45,1.9,2023-10-28,Mobile,Hindi,False,Standard
+U0051,Edge of Tomorrow,Action,142,3.3,2023-08-22,Tablet,Spanish,False,Standard
+U0044,The Dark Knight,Sci-Fi,25,1.4,2023-07-29,Desktop,German,False,Standard
+U0040,La La Land,Thriller,68,4.5,2023-04-14,Smart TV,Hindi,False,Premium
+U0027,Interstellar,Thriller,173,2.5,2023-05-12,Tablet,English,False,Standard
+U0097,The Matrix,Thriller,86,1.7,2023-04-17,Laptop,English,False,Basic
+U0066,Joker,Comedy,50,3.7,2024-05-26,Mobile,English,False,Basic
+U0049,The Dark Knight,Comedy,47,2.3,2023-04-05,Mobile,Hindi,False,Premium
+U0023,Joker,Thriller,98,2.5,2023-06-30,Smart TV,French,False,Standard
+U0094,The Dark Knight,Comedy,20,3.4,2023-03-02,Tablet,French,False,Premium
+U0074,The Dark Knight,Action,103,2.6,2023-03-17,Smart TV,German,False,Standard
+U0074,Joker,Drama,92,2.0,2023-10-03,Desktop,Korean,False,Standard
+U0019,Inception,Thriller,172,3.4,2023-04-24,Mobile,German,True,Premium
+U0082,La La Land,Comedy,33,4.1,2023-04-12,Desktop,English,False,Premium
+U0012,Inception,Action,104,2.8,2024-02-11,Laptop,Spanish,False,Basic
+U0029,Edge of Tomorrow,Thriller,73,4.6,2023-10-01,Desktop,Hindi,True,Standard
+U0046,Parasite,Comedy,117,2.7,2024-02-19,Laptop,German,False,Basic
+U0056,The Matrix,Romance,107,2.0,2023-04-10,Smart TV,Hindi,False,Standard
+U0061,The Matrix,Drama,140,5.0,2023-09-14,Desktop,Hindi,False,Basic
+U0070,La La Land,Drama,162,3.6,2023-09-26,Tablet,German,True,Premium
+U0091,The Godfather,Comedy,65,3.9,2024-03-06,Mobile,English,False,Premium
+U0084,The Matrix,Sci-Fi,11,3.0,2023-02-18,Smart TV,Korean,False,Basic
+U0093,Joker,Sci-Fi,115,3.5,2024-03-24,Mobile,English,True,Standard
+U0012,Edge of Tomorrow,Sci-Fi,124,4.1,2024-02-19,Tablet,Spanish,True,Basic
+U0066,Interstellar,Action,155,1.5,2023-12-11,Smart TV,Korean,True,Premium
+U0072,The Godfather,Thriller,165,4.0,2024-05-07,Smart TV,German,False,Standard
+U0070,The Dark Knight,Sci-Fi,23,3.7,2023-10-02,Desktop,Hindi,True,Standard
+U0050,The Matrix,Romance,161,4.4,2023-05-16,Laptop,Spanish,True,Premium
+U0091,Avengers: Endgame,Drama,69,2.8,2023-08-20,Smart TV,German,True,Premium
+U0091,The Dark Knight,Comedy,53,3.6,2023-09-21,Mobile,Korean,False,Standard
+U0028,Joker,Action,122,4.8,2023-06-17,Laptop,Korean,False,Premium
+U0017,La La Land,Sci-Fi,63,3.3,2023-03-13,Laptop,English,True,Premium
+U0005,Avengers: Endgame,Thriller,50,3.0,2023-10-19,Laptop,Spanish,False,Basic
+U0100,The Dark Knight,Romance,150,3.4,2023-12-03,Desktop,Korean,False,Basic
+U0019,La La Land,Action,175,1.1,2023-09-18,Tablet,Hindi,False,Standard
+U0005,Joker,Sci-Fi,154,5.0,2023-08-30,Laptop,German,True,Basic
+U0028,Interstellar,Sci-Fi,174,4.3,2023-12-18,Desktop,Spanish,True,Standard
+U0051,The Godfather,Romance,51,2.9,2023-06-15,Tablet,Spanish,True,Basic
+U0036,Parasite,Thriller,63,4.4,2024-03-19,Tablet,German,True,Standard
+U0093,Avengers: Endgame,Comedy,172,1.9,2023-04-14,Desktop,German,False,Standard
+U0098,La La Land,Action,62,2.9,2023-05-30,Smart TV,English,True,Standard
+U0038,Inception,Romance,29,3.8,2024-04-16,Smart TV,English,False,Standard
+U0018,Avengers: Endgame,Thriller,92,1.2,2023-04-19,Tablet,French,False,Premium
+U0009,La La Land,Romance,154,4.9,2023-04-24,Mobile,Spanish,True,Basic
+U0041,The Dark Knight,Action,149,2.4,2023-11-29,Desktop,French,False,Premium
+U0013,Interstellar,Romance,155,1.8,2024-01-13,Laptop,French,False,Premium
+U0003,Parasite,Thriller,165,2.4,2023-02-05,Mobile,Spanish,False,Standard
+U0090,Joker,Drama,24,4.9,2023-08-07,Mobile,Hindi,True,Basic
+U0087,Inception,Comedy,122,4.0,2023-07-05,Tablet,Hindi,False,Basic
+U0047,The Godfather,Thriller,16,2.2,2023-03-21,Tablet,Korean,True,Basic
+U0047,Interstellar,Comedy,117,2.9,2024-05-01,Laptop,Hindi,True,Premium
+U0060,Avengers: Endgame,Thriller,36,3.3,2023-12-13,Tablet,English,False,Standard
+U0085,Joker,Drama,133,1.7,2023-08-14,Desktop,Hindi,True,Basic
+U0042,The Matrix,Action,149,4.5,2023-08-25,Desktop,French,True,Premium
+U0074,The Godfather,Action,45,4.3,2024-01-05,Laptop,Spanish,False,Basic
+U0070,Interstellar,Drama,123,1.4,2023-09-07,Desktop,French,True,Basic
+U0080,The Dark Knight,Action,119,3.4,2024-03-28,Mobile,Spanish,True,Standard
+U0055,The Matrix,Romance,56,2.0,2023-01-24,Desktop,English,False,Basic
+U0032,Edge of Tomorrow,Sci-Fi,154,1.9,2023-01-17,Laptop,Korean,False,Standard
+U0003,Interstellar,Comedy,123,2.8,2024-01-18,Mobile,Hindi,False,Standard
+U0078,The Matrix,Drama,126,5.0,2023-02-16,Desktop,English,True,Premium
+U0096,The Matrix,Action,54,2.9,2023-03-16,Smart TV,Spanish,True,Standard
+U0032,Parasite,Thriller,59,2.5,2023-02-26,Mobile,Hindi,True,Basic
+U0082,Joker,Romance,83,2.5,2023-07-02,Tablet,English,False,Basic
+U0052,The Matrix,Romance,92,4.0,2023-11-08,Smart TV,English,False,Premium
+U0083,Joker,Sci-Fi,15,3.8,2024-05-28,Mobile,Spanish,False,Standard
+U0086,The Dark Knight,Action,74,3.7,2023-06-21,Smart TV,Spanish,True,Standard
+U0028,La La Land,Drama,154,4.2,2023-04-03,Laptop,German,False,Premium
+U0072,Edge of Tomorrow,Drama,72,4.5,2023-11-07,Laptop,Hindi,True,Basic
+U0099,Inception,Romance,112,2.1,2024-04-21,Desktop,Spanish,False,Premium
+U0093,Edge of Tomorrow,Drama,51,4.8,2024-05-04,Mobile,Spanish,True,Basic
+U0056,Interstellar,Thriller,152,3.4,2023-03-05,Smart TV,Korean,False,Premium
+U0072,Joker,Sci-Fi,168,4.7,2023-06-09,Tablet,Spanish,True,Basic
+U0058,Joker,Action,36,1.7,2024-04-03,Mobile,French,True,Standard
+U0005,Avengers: Endgame,Sci-Fi,148,2.2,2023-06-13,Desktop,Spanish,True,Premium
+U0085,Parasite,Drama,168,1.0,2024-06-24,Tablet,German,True,Basic
+U0070,La La Land,Comedy,119,3.5,2024-05-18,Desktop,Hindi,True,Premium
+U0011,Edge of Tomorrow,Thriller,112,2.4,2023-03-04,Tablet,French,True,Basic
+U0045,Joker,Comedy,129,3.2,2023-04-17,Laptop,German,True,Basic
+U0098,Avengers: Endgame,Romance,66,2.4,2023-02-21,Desktop,Korean,True,Premium
+U0027,La La Land,Thriller,26,3.0,2023-02-22,Tablet,English,True,Basic
+U0006,Edge of Tomorrow,Thriller,12,2.8,2023-01-24,Mobile,English,False,Basic
+U0052,Avengers: Endgame,Action,135,2.0,2023-03-25,Smart TV,German,False,Premium
+U0077,The Dark Knight,Thriller,115,1.3,2023-04-19,Laptop,Hindi,False,Standard
+U0099,Joker,Comedy,93,2.6,2024-03-09,Desktop,German,True,Premium
+U0036,Parasite,Action,166,3.5,2024-06-02,Laptop,Spanish,True,Standard
+U0065,The Godfather,Thriller,116,4.9,2023-03-13,Laptop,English,False,Premium
+U0065,The Godfather,Action,102,1.7,2023-01-21,Tablet,English,True,Premium
+U0039,Joker,Comedy,55,2.5,2023-03-12,Desktop,English,True,Premium
+U0051,The Matrix,Action,13,2.8,2024-05-06,Desktop,English,True,Premium
+U0055,Avengers: Endgame,Drama,11,4.4,2023-04-17,Tablet,Korean,False,Standard
+U0049,Interstellar,Romance,108,4.4,2024-05-09,Desktop,French,False,Basic
+U0075,Joker,Action,174,3.3,2023-10-08,Smart TV,Korean,True,Basic
+U0015,La La Land,Drama,65,2.1,2024-01-19,Laptop,French,False,Premium
+U0027,The Godfather,Sci-Fi,119,1.9,2024-05-05,Desktop,French,False,Basic
+U0059,Edge of Tomorrow,Comedy,153,4.0,2023-10-08,Mobile,German,False,Premium
+U0059,Parasite,Drama,132,2.0,2024-03-27,Mobile,German,True,Standard
+U0073,Inception,Action,87,2.3,2023-03-12,Tablet,Spanish,False,Basic
+U0016,La La Land,Comedy,145,1.8,2024-04-03,Desktop,German,False,Premium
+U0074,Inception,Sci-Fi,57,1.6,2023-01-13,Tablet,English,False,Premium
+U0068,Inception,Comedy,137,3.6,2023-05-01,Desktop,German,False,Premium
+U0058,The Godfather,Drama,46,1.5,2023-02-26,Laptop,Spanish,True,Premium
+U0013,The Godfather,Thriller,147,4.3,2023-09-16,Smart TV,German,True,Basic
+U0044,Avengers: Endgame,Thriller,71,2.1,2023-12-19,Tablet,Hindi,False,Basic
+U0079,The Dark Knight,Action,70,4.0,2024-01-03,Laptop,English,True,Premium
+U0013,La La Land,Thriller,166,4.3,2024-02-01,Mobile,German,False,Premium
+U0026,Joker,Romance,111,3.9,2023-09-11,Laptop,French,True,Basic
+U0069,Interstellar,Comedy,174,2.2,2023-08-19,Tablet,German,True,Basic
+U0055,Edge of Tomorrow,Action,132,1.3,2023-04-03,Mobile,Spanish,False,Standard
+U0051,Parasite,Thriller,124,3.5,2023-09-25,Desktop,French,False,Basic
+U0094,Inception,Thriller,49,3.8,2023-04-07,Tablet,Korean,True,Basic
+U0033,La La Land,Thriller,152,4.3,2023-03-16,Mobile,German,False,Premium
+U0096,The Matrix,Action,24,2.8,2024-02-21,Laptop,German,False,Premium
+U0005,The Dark Knight,Romance,35,2.9,2023-09-18,Smart TV,English,True,Standard
+U0007,The Godfather,Comedy,97,3.8,2023-11-08,Laptop,French,False,Standard
+U0067,The Dark Knight,Sci-Fi,145,3.1,2023-12-02,Mobile,Hindi,False,Basic
+U0083,The Godfather,Action,15,2.1,2023-11-06,Tablet,Hindi,True,Premium
+U0002,The Godfather,Thriller,86,2.6,2023-02-07,Laptop,English,False,Standard
+U0093,La La Land,Comedy,121,2.5,2023-02-13,Laptop,French,True,Standard
+U0034,Edge of Tomorrow,Romance,97,3.4,2024-07-01,Laptop,Hindi,False,Basic
+U0093,La La Land,Sci-Fi,175,3.1,2024-02-14,Desktop,French,True,Premium
+U0020,Avengers: Endgame,Comedy,92,4.0,2023-05-14,Laptop,German,False,Basic
+U0018,Joker,Comedy,111,4.0,2024-06-03,Tablet,Korean,False,Premium
+U0090,La La Land,Romance,16,2.2,2023-06-17,Laptop,Hindi,False,Basic
+U0074,The Godfather,Comedy,94,3.9,2023-12-07,Laptop,Spanish,False,Premium
+U0077,The Godfather,Action,127,1.9,2023-07-11,Smart TV,French,False,Standard
+U0053,The Godfather,Comedy,166,1.0,2023-02-13,Tablet,Spanish,False,Basic
+U0038,La La Land,Drama,43,2.0,2023-06-30,Laptop,Spanish,False,Basic
+U0056,Interstellar,Drama,131,4.4,2023-12-03,Tablet,Hindi,True,Standard
+U0098,The Godfather,Sci-Fi,159,4.3,2023-04-19,Desktop,Korean,True,Basic
+U0065,Interstellar,Drama,169,1.9,2024-05-24,Smart TV,Spanish,True,Standard
+U0024,The Matrix,Drama,56,2.3,2024-04-24,Desktop,Korean,False,Premium
+U0020,Avengers: Endgame,Action,97,2.1,2024-05-08,Laptop,Spanish,False,Standard
+U0052,Avengers: Endgame,Comedy,108,2.4,2023-11-15,Laptop,German,True,Premium
+U0001,The Godfather,Comedy,173,3.2,2023-07-03,Laptop,Korean,True,Premium
+U0094,Edge of Tomorrow,Thriller,146,4.7,2023-05-24,Laptop,Korean,False,Basic
+U0013,Edge of Tomorrow,Thriller,27,3.1,2023-12-07,Desktop,Korean,False,Premium
+U0060,The Dark Knight,Sci-Fi,122,1.5,2023-04-26,Tablet,Korean,False,Basic
+U0031,The Matrix,Comedy,76,1.5,2024-05-09,Tablet,Spanish,True,Standard
+U0096,Interstellar,Sci-Fi,72,4.4,2024-05-15,Laptop,Spanish,True,Premium
+U0049,The Godfather,Drama,36,4.9,2023-01-21,Smart TV,Hindi,False,Basic
+U0085,Avengers: Endgame,Drama,163,3.8,2023-04-09,Desktop,English,True,Premium
+U0073,The Matrix,Drama,100,2.2,2023-02-26,Tablet,Spanish,False,Standard
+U0080,Edge of Tomorrow,Action,136,4.1,2023-07-05,Smart TV,English,True,Basic
+U0073,Inception,Sci-Fi,122,2.9,2023-05-05,Smart TV,Korean,True,Basic
+U0007,The Dark Knight,Romance,49,1.5,2023-08-09,Smart TV,German,False,Standard
+U0081,The Matrix,Romance,180,5.0,2024-04-17,Tablet,French,False,Basic
+U0030,The Dark Knight,Sci-Fi,62,4.9,2023-12-28,Tablet,Spanish,True,Standard
+U0031,Avengers: Endgame,Romance,109,1.1,2024-05-16,Tablet,Korean,True,Basic
+U0035,Interstellar,Romance,173,4.1,2024-01-24,Smart TV,Hindi,False,Premium
+U0075,Interstellar,Drama,73,3.6,2023-07-08,Tablet,German,False,Standard
+U0022,Joker,Thriller,59,3.5,2023-09-05,Tablet,Hindi,False,Basic
+U0075,Avengers: Endgame,Action,139,2.8,2023-12-09,Laptop,Spanish,False,Premium
+U0061,Parasite,Action,164,2.0,2023-03-18,Desktop,English,False,Premium
+U0077,The Matrix,Thriller,15,1.1,2024-06-14,Laptop,French,True,Premium
+U0008,Edge of Tomorrow,Thriller,160,2.3,2023-03-21,Desktop,French,False,Standard
+U0082,La La Land,Romance,94,1.1,2024-06-11,Tablet,Hindi,True,Standard
+U0043,La La Land,Sci-Fi,177,4.6,2023-02-09,Desktop,Spanish,False,Basic
+U0084,The Godfather,Action,34,2.6,2024-04-11,Tablet,French,False,Standard
+U0017,La La Land,Romance,104,1.1,2023-12-03,Smart TV,French,True,Premium
+U0090,The Matrix,Sci-Fi,171,4.1,2023-02-13,Tablet,Korean,False,Standard
+U0027,Edge of Tomorrow,Romance,53,3.6,2024-02-09,Laptop,French,True,Premium
+U0061,The Dark Knight,Romance,108,2.5,2023-04-10,Desktop,French,False,Standard
+U0031,Parasite,Comedy,179,2.4,2024-01-09,Tablet,English,False,Premium
+U0047,Edge of Tomorrow,Thriller,106,4.5,2023-04-21,Desktop,French,True,Premium
+U0010,The Dark Knight,Action,112,1.5,2023-08-26,Mobile,English,True,Basic
+U0054,La La Land,Drama,105,4.9,2024-04-14,Mobile,Hindi,True,Standard
+U0096,The Matrix,Thriller,11,3.7,2024-01-05,Mobile,German,False,Standard
+U0048,The Godfather,Sci-Fi,65,1.1,2024-04-12,Tablet,French,False,Premium
+U0073,Edge of Tomorrow,Thriller,50,2.2,2024-03-07,Tablet,Spanish,False,Premium
+U0029,The Godfather,Drama,34,3.1,2024-01-21,Smart TV,Hindi,True,Standard
+U0014,The Dark Knight,Drama,26,4.0,2023-01-29,Tablet,Hindi,False,Basic
+U0020,The Godfather,Comedy,95,4.6,2024-04-26,Mobile,English,True,Basic
+U0043,The Dark Knight,Comedy,108,1.2,2023-08-24,Mobile,Hindi,True,Basic
+U0052,Avengers: Endgame,Comedy,75,3.8,2023-04-09,Desktop,Spanish,True,Basic
+U0083,The Matrix,Sci-Fi,14,2.9,2023-07-20,Mobile,Korean,False,Standard
+U0088,The Dark Knight,Romance,98,3.8,2023-12-21,Mobile,German,True,Premium
+U0063,Joker,Romance,96,3.1,2023-04-21,Laptop,Spanish,False,Standard
+U0097,Edge of Tomorrow,Romance,97,2.1,2023-12-12,Tablet,Hindi,False,Basic
+U0087,Edge of Tomorrow,Comedy,179,4.3,2024-06-20,Tablet,Hindi,False,Premium
+U0063,The Godfather,Comedy,121,1.9,2023-02-08,Mobile,Hindi,False,Basic
+U0053,Parasite,Drama,142,4.1,2023-05-22,Desktop,Spanish,True,Basic
+U0031,The Dark Knight,Romance,135,2.6,2023-09-14,Mobile,German,True,Standard
+U0057,The Godfather,Comedy,66,2.6,2024-03-05,Smart TV,Hindi,True,Standard
+U0077,Edge of Tomorrow,Sci-Fi,115,1.3,2023-12-31,Mobile,Korean,False,Standard
+U0059,Avengers: Endgame,Action,106,3.6,2024-06-07,Mobile,Spanish,False,Premium
+U0012,The Godfather,Action,18,3.1,2024-03-02,Desktop,Spanish,False,Basic
+U0035,Joker,Sci-Fi,95,3.7,2023-07-17,Laptop,German,False,Standard
+U0049,Joker,Sci-Fi,155,3.8,2024-04-09,Smart TV,English,True,Premium
+U0057,The Matrix,Action,161,2.3,2023-03-23,Tablet,Korean,True,Basic
+U0080,Edge of Tomorrow,Thriller,126,2.4,2024-03-31,Mobile,German,False,Basic
+U0094,Inception,Sci-Fi,79,1.4,2023-12-16,Mobile,German,True,Basic
+U0053,Avengers: Endgame,Romance,49,1.7,2024-06-14,Laptop,English,True,Premium
+U0058,Avengers: Endgame,Action,140,3.8,2023-08-27,Smart TV,Hindi,True,Premium
+U0018,The Dark Knight,Action,126,1.7,2023-10-27,Laptop,German,False,Basic
+U0075,Interstellar,Action,26,4.1,2024-07-01,Tablet,Spanish,False,Premium
+U0046,The Matrix,Romance,57,1.3,2024-05-12,Desktop,Korean,False,Standard
+U0084,The Godfather,Action,28,1.5,2023-05-29,Smart TV,German,False,Premium
+U0020,Interstellar,Action,22,4.9,2023-06-29,Laptop,English,False,Basic
+U0062,Interstellar,Action,168,1.7,2023-02-26,Desktop,Korean,False,Basic
+U0090,Inception,Romance,177,2.6,2023-08-29,Smart TV,Korean,False,Standard
+U0070,Joker,Action,57,3.0,2024-05-20,Mobile,German,True,Premium
+U0076,Parasite,Comedy,166,4.1,2023-10-22,Smart TV,German,True,Premium
+U0084,Inception,Thriller,22,3.3,2023-11-20,Mobile,Korean,True,Premium
+U0052,Interstellar,Drama,119,4.5,2023-01-13,Mobile,French,True,Basic
+U0042,Interstellar,Thriller,104,3.2,2023-03-09,Smart TV,French,False,Standard
+U0084,Joker,Sci-Fi,27,2.8,2023-04-04,Desktop,Spanish,False,Basic
+U0071,The Godfather,Thriller,88,2.0,2023-09-07,Laptop,Spanish,True,Premium
+U0026,Avengers: Endgame,Drama,165,1.2,2023-05-02,Tablet,Hindi,False,Premium
+U0014,Interstellar,Thriller,142,4.5,2024-01-13,Laptop,French,True,Standard
+U0058,Inception,Action,83,2.6,2024-04-14,Smart TV,Korean,False,Standard
+U0008,Joker,Sci-Fi,66,1.6,2023-05-24,Laptop,Hindi,True,Premium
+U0031,Parasite,Action,28,2.9,2023-06-05,Desktop,Spanish,False,Basic
+U0007,The Dark Knight,Romance,47,3.8,2024-02-04,Tablet,French,False,Basic
+U0082,The Matrix,Comedy,163,4.5,2023-01-18,Desktop,French,True,Basic
+U0041,Parasite,Drama,87,1.6,2023-08-11,Laptop,French,False,Basic
+U0086,The Matrix,Comedy,86,2.6,2023-07-12,Smart TV,Hindi,False,Premium
+U0031,Edge of Tomorrow,Action,70,3.6,2023-01-16,Mobile,German,False,Basic
+U0080,Interstellar,Action,134,2.2,2024-06-15,Tablet,English,True,Standard
+U0051,Edge of Tomorrow,Sci-Fi,140,1.2,2023-06-09,Desktop,Spanish,True,Basic
+U0077,The Matrix,Action,99,3.7,2024-05-25,Smart TV,Spanish,False,Standard
+U0017,Joker,Comedy,74,3.5,2023-01-26,Tablet,French,True,Basic
+U0058,Avengers: Endgame,Drama,92,3.0,2024-06-06,Mobile,German,False,Basic
+U0018,La La Land,Romance,126,3.5,2023-09-19,Desktop,French,True,Premium
+U0067,Avengers: Endgame,Romance,14,1.9,2023-08-25,Desktop,Spanish,True,Premium
+U0092,Inception,Romance,33,1.2,2024-04-04,Mobile,Spanish,True,Premium
+U0100,Avengers: Endgame,Romance,30,1.7,2024-02-10,Smart TV,Hindi,False,Standard
+U0054,Edge of Tomorrow,Thriller,43,4.9,2023-09-02,Laptop,English,True,Standard
+U0067,Interstellar,Sci-Fi,144,3.9,2023-02-18,Mobile,German,False,Standard
+U0050,The Matrix,Romance,127,3.9,2024-05-25,Laptop,English,True,Premium
+U0032,Avengers: Endgame,Drama,140,1.7,2023-05-10,Tablet,German,True,Basic
+U0014,The Matrix,Action,158,1.1,2024-04-16,Mobile,Hindi,True,Standard
+U0010,Joker,Thriller,160,1.1,2023-10-06,Laptop,Spanish,True,Premium
+U0036,La La Land,Thriller,173,4.7,2023-05-31,Laptop,Hindi,False,Standard
+U0043,Interstellar,Sci-Fi,32,3.4,2024-01-31,Tablet,English,True,Premium
+U0043,Interstellar,Sci-Fi,139,4.9,2023-12-30,Desktop,English,False,Premium
+U0093,Inception,Thriller,56,1.5,2024-03-04,Smart TV,English,False,Premium
+U0036,Interstellar,Comedy,128,1.6,2023-04-20,Tablet,German,False,Basic
+U0049,The Matrix,Drama,54,1.6,2024-01-08,Desktop,French,False,Premium
+U0062,Edge of Tomorrow,Comedy,89,1.8,2023-12-07,Desktop,Hindi,True,Standard
+U0037,La La Land,Romance,88,3.2,2023-11-13,Tablet,French,True,Premium
+U0063,Interstellar,Comedy,65,4.2,2023-09-23,Laptop,Spanish,False,Standard
+U0056,Avengers: Endgame,Comedy,10,2.8,2023-09-14,Laptop,French,True,Premium
+U0094,Edge of Tomorrow,Comedy,149,1.3,2023-05-20,Laptop,Spanish,False,Standard
+U0060,Avengers: Endgame,Drama,143,1.4,2023-07-30,Smart TV,Korean,False,Standard
+U0077,Interstellar,Drama,108,2.4,2023-03-15,Smart TV,German,True,Standard
+U0073,Avengers: Endgame,Comedy,167,3.5,2023-10-03,Desktop,German,True,Premium
+U0064,The Matrix,Comedy,171,3.6,2023-08-09,Laptop,Korean,True,Standard
+U0004,Inception,Drama,106,2.0,2023-10-04,Smart TV,Spanish,True,Standard
+U0002,Joker,Action,126,1.8,2023-10-11,Mobile,French,True,Standard
+U0072,The Matrix,Comedy,144,2.8,2023-04-29,Smart TV,German,False,Premium
+U0070,Edge of Tomorrow,Thriller,33,1.4,2023-02-18,Desktop,German,True,Standard
+U0077,Parasite,Romance,120,2.7,2024-05-23,Tablet,German,False,Standard
+U0084,The Dark Knight,Drama,86,2.2,2023-09-11,Smart TV,Korean,False,Standard
+U0017,Parasite,Romance,96,2.6,2024-04-08,Desktop,Spanish,False,Basic
+U0004,Parasite,Romance,70,4.2,2023-06-16,Laptop,French,False,Premium
+U0011,The Godfather,Drama,112,4.9,2023-12-05,Desktop,Korean,False,Standard
+U0071,La La Land,Comedy,135,4.8,2024-02-10,Smart TV,German,False,Basic
+U0062,Avengers: Endgame,Thriller,153,2.4,2023-04-29,Tablet,Korean,False,Premium
+U0006,Parasite,Romance,130,4.0,2023-03-28,Desktop,German,False,Premium
+U0035,The Matrix,Action,155,3.4,2023-08-09,Laptop,French,True,Premium
+U0084,The Dark Knight,Comedy,123,3.4,2023-06-23,Laptop,French,False,Premium
+U0070,Edge of Tomorrow,Comedy,85,4.5,2024-02-10,Smart TV,Spanish,False,Basic
+U0064,The Matrix,Thriller,131,1.8,2024-06-17,Desktop,Korean,False,Premium
+U0063,The Godfather,Romance,114,3.3,2024-02-26,Mobile,English,True,Basic
+U0008,La La Land,Comedy,98,4.9,2023-01-10,Smart TV,English,True,Standard
+U0098,Edge of Tomorrow,Comedy,25,4.0,2023-08-07,Laptop,Korean,True,Basic
+U0069,The Dark Knight,Action,39,1.2,2024-01-16,Laptop,Korean,False,Basic
+U0002,Avengers: Endgame,Sci-Fi,29,3.7,2024-05-03,Desktop,Korean,False,Standard
+U0047,The Godfather,Comedy,43,5.0,2024-05-13,Smart TV,Spanish,False,Premium
+U0048,The Dark Knight,Action,81,5.0,2023-12-11,Smart TV,English,False,Premium
+U0085,La La Land,Thriller,19,1.2,2024-04-17,Tablet,Spanish,False,Basic
+U0033,The Matrix,Romance,136,4.0,2024-02-25,Smart TV,Hindi,True,Premium
+U0041,Joker,Action,169,4.0,2023-06-06,Laptop,Spanish,False,Premium
+U0077,Parasite,Drama,133,3.3,2024-04-28,Mobile,Korean,True,Premium
+U0050,La La Land,Action,111,2.3,2024-02-08,Desktop,German,False,Basic
+U0064,Inception,Sci-Fi,110,4.9,2023-05-26,Desktop,Hindi,False,Premium
+U0050,Avengers: Endgame,Comedy,57,4.8,2023-10-10,Laptop,Spanish,True,Standard
+U0088,The Godfather,Action,115,2.8,2024-02-15,Laptop,English,True,Premium
+U0078,The Dark Knight,Romance,16,4.0,2024-01-04,Tablet,German,True,Basic
+U0006,Joker,Thriller,42,3.3,2024-02-27,Tablet,English,False,Premium
+U0034,The Matrix,Thriller,112,4.1,2023-10-07,Mobile,Korean,False,Basic
+U0056,Avengers: Endgame,Thriller,136,1.0,2023-02-21,Tablet,Hindi,True,Basic
+U0087,Inception,Sci-Fi,82,2.1,2023-05-23,Smart TV,French,False,Basic
+U0083,Inception,Sci-Fi,56,2.8,2024-04-15,Tablet,English,True,Standard
+U0020,Parasite,Sci-Fi,78,4.3,2024-02-12,Mobile,Spanish,False,Standard
+U0072,Joker,Thriller,170,4.1,2023-05-12,Mobile,French,False,Standard
+U0042,Avengers: Endgame,Sci-Fi,167,2.0,2023-11-05,Tablet,Hindi,False,Basic
+U0067,Avengers: Endgame,Drama,117,4.1,2023-12-21,Laptop,French,True,Basic
+U0013,The Godfather,Thriller,164,1.1,2024-05-01,Desktop,French,False,Standard
+U0023,The Dark Knight,Comedy,76,4.8,2024-02-22,Laptop,Hindi,True,Basic
+U0074,Joker,Action,137,3.4,2023-03-28,Laptop,Hindi,True,Premium
+U0045,Joker,Thriller,141,1.5,2024-04-27,Desktop,English,False,Basic
+U0053,The Matrix,Drama,12,1.6,2023-10-25,Tablet,Spanish,True,Premium
+U0020,The Dark Knight,Drama,50,2.7,2023-07-11,Tablet,German,True,Standard
+U0098,Parasite,Thriller,125,4.5,2023-02-21,Desktop,Korean,True,Premium
+U0032,Interstellar,Sci-Fi,129,1.5,2024-05-27,Mobile,French,False,Premium
+U0073,The Godfather,Action,117,5.0,2024-01-22,Tablet,French,True,Basic
+U0068,Joker,Action,46,3.4,2023-11-18,Laptop,Korean,True,Standard
+U0095,The Godfather,Action,30,2.3,2023-09-13,Mobile,German,True,Premium
+U0019,The Godfather,Action,169,3.1,2024-05-29,Mobile,Spanish,True,Standard
+U0049,Parasite,Romance,10,1.0,2023-03-22,Laptop,Hindi,False,Premium
+U0062,La La Land,Romance,62,1.9,2023-12-08,Mobile,French,False,Standard
+U0039,La La Land,Sci-Fi,167,1.1,2023-01-21,Smart TV,Korean,False,Standard
+U0077,Parasite,Sci-Fi,128,3.5,2023-07-11,Laptop,Hindi,True,Standard
+U0091,Avengers: Endgame,Action,172,2.0,2024-03-24,Laptop,English,False,Basic
+U0043,The Matrix,Action,136,4.5,2023-04-13,Tablet,English,False,Basic
+U0050,The Godfather,Action,39,2.1,2023-10-24,Smart TV,German,False,Standard
+U0050,Parasite,Sci-Fi,22,4.2,2024-05-15,Smart TV,Hindi,True,Basic
+U0086,La La Land,Romance,63,3.9,2023-03-18,Laptop,French,True,Premium
+U0022,Parasite,Drama,152,1.8,2023-10-04,Laptop,Hindi,True,Basic
+U0032,Joker,Sci-Fi,16,3.4,2024-02-12,Tablet,French,False,Basic
+U0037,Joker,Thriller,47,1.6,2023-01-09,Smart TV,Korean,True,Basic
+U0059,Parasite,Thriller,82,2.8,2023-12-09,Laptop,Hindi,False,Premium
+U0005,Inception,Thriller,32,4.7,2023-03-11,Desktop,Hindi,False,Standard
+U0005,La La Land,Romance,74,3.1,2023-08-24,Tablet,English,False,Standard
+U0045,Parasite,Drama,130,1.8,2023-12-10,Laptop,Spanish,False,Basic
+U0030,Interstellar,Comedy,33,4.7,2024-02-08,Smart TV,English,True,Premium
+U0032,Edge of Tomorrow,Thriller,99,3.3,2024-04-23,Tablet,German,False,Basic
+U0039,Edge of Tomorrow,Thriller,122,4.9,2023-06-07,Smart TV,Spanish,True,Premium
+U0051,Inception,Comedy,18,3.2,2024-03-24,Laptop,German,False,Basic
+U0071,Interstellar,Romance,58,1.1,2024-04-29,Mobile,German,False,Basic
